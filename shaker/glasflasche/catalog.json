@@ -73,11 +73,12 @@
   },
   {
     "index": 9,
-    "name": "Iced Tea Bottle",
+    "name": "Iced Tea Bottle (Variante 1)",
     "path": "shaker/glasflasche/Glasflasche_10_Iced-Tea-Bottle.webp",
     "cdnPath": "s/gf10.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf10.webp",
-    "source": "https://ochdenis.de/media/pages/holy/shaker/glasflasche/iced-tea-bottle/97254bb969-1781862364/23_002_20product_20images_glassbottle_01-x400-q78.webp"
+    "source": "https://ochdenis.de/media/pages/holy/shaker/glasflasche/iced-tea-bottle/97254bb969-1781862364/23_002_20product_20images_glassbottle_01-x400-q78.webp",
+    "sourceName": "Iced Tea Bottle"
   },
   {
     "index": 10,
@@ -121,11 +122,12 @@
   },
   {
     "index": 15,
-    "name": "Iced Tea Bottle",
+    "name": "Iced Tea Bottle (Variante 2)",
     "path": "shaker/glasflasche/Glasflasche_16_Iced-Tea-Bottle.webp",
     "cdnPath": "s/gf16.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf16.webp",
-    "source": "https://ochdenis.de/media/pages/holy/shaker/glasflasche/iced-tea-bottle-fragezeichen/83cf98c849-1781862366/holy_it_glasflasche1-x400-q78.webp"
+    "source": "https://ochdenis.de/media/pages/holy/shaker/glasflasche/iced-tea-bottle-fragezeichen/83cf98c849-1781862366/holy_it_glasflasche1-x400-q78.webp",
+    "sourceName": "Iced Tea Bottle"
   },
   {
     "index": 16,

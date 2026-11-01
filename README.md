@@ -17,8 +17,10 @@ holy-images/
     ├── iced-tea/
     ├── hydration/
     ├── milkshake/
-    ├── spezial/  (65 Bilder)
-    └── xl/       (11 Bilder)
+    ├── spezial/       (65 Bilder)
+    ├── xl/            (11 Bilder)
+    ├── giga-gallon/   (7 Bilder)
+    └── glasflasche/   (26 Bilder)
 ```
 
 ## Dateinamen
@@ -45,8 +47,9 @@ Die Datei muss unter exakt diesem Pfad im öffentlichen Repository liegen. Datei
 - `Import OchDenis shaker images`: übernimmt Bilder aus den regulären Kategorien Energy, Iced Tea, Hydration und Milkshake. Alternative Kategorien wie `Energy (Alt Bunt)`, `Energy (Alt Schwarz)` und `Iced Tea (Alt Schwarz)` bleiben ausgeschlossen.
 - `Import OchDenis Spezial shaker images`: übernimmt alle 65 Einträge der Kategorie Spezial.
 - `Import OchDenis XL shaker images`: übernimmt alle 11 Einträge der Kategorie XL.
+- `Import OchDenis Giga Gallon and Glasflasche shaker images`: übernimmt 7 Giga-Gallon-Modelle und 26 Glasflaschen aus den gleichnamigen Kategorien.
 
-Beide Importe prüfen Dateityp und Bilddaten und committen die Ergebnisse gesammelt. Schlägt eine Bildprüfung fehl, bricht der Import ab, statt einen unvollständigen Katalog als erfolgreich zu melden.
+Alle Importe prüfen Dateityp und Bilddaten und committen die Ergebnisse gesammelt. Schlägt eine Bildprüfung fehl, bricht der Import ab, statt einen unvollständigen Katalog als erfolgreich zu melden.
 
 ## Hinweise
 
@@ -66,5 +69,7 @@ Original product image files remain in their category folders. The `s/` director
 - `s/m###.webp`: standard Milkshake
 - `s/p##.webp`: Spezial
 - `s/x##.webp`: XL
+- `s/gg##.webp`: Giga Gallon
+- `s/gf##.webp`: Glasflasche
 
 The aliases point to the same Git blobs; no image is recompressed or changed.

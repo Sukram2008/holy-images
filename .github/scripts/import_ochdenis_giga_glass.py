@@ -168,9 +168,19 @@ def main():
                 cdn_url = f"https://cdn.jsdelivr.net/gh/{REPO}@main/{alias_path.as_posix()}"
                 mapping_key = f"Shaker|{category['name']}|{index}"
                 image_map[mapping_key] = cdn_url
+                same_name_indices = [
+                    i for i, product in enumerate(items)
+                    if product["name"] == item["name"]
+                ]
+                display_name = item["name"]
+                if len(same_name_indices) > 1:
+                    variant = same_name_indices.index(index) + 1
+                    display_name = f"{item['name']} (Variante {variant})"
+
                 catalog.append({
                     "index": index,
-                    "name": item["name"],
+                    "name": display_name,
+                    "sourceName": item["name"],
                     "path": original_path.as_posix(),
                     "cdnPath": alias_path.as_posix(),
                     "url": cdn_url,
