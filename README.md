@@ -20,7 +20,8 @@ holy-images/
     ├── spezial/       (65 Bilder)
     ├── xl/            (11 Bilder)
     ├── giga-gallon/   (7 Bilder)
-    └── glasflasche/   (26 Bilder)
+    ├── glasflasche/  (26 Bilder)
+    └── thermo/        (94 Bilder)
 ```
 
 ## Dateinamen
