@@ -1,0 +1,90 @@
+[
+  {
+    "category": "XL",
+    "name": "HOLY Cup",
+    "path": "shaker/xl/XL_01_HOLY-Cup.webp",
+    "cdnPath": "s/x01.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x01.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/holy-cup/0b86123203-1784664118/untitled-21.-juli-2026-um-20.47.14-x400-q78.webp"
+  },
+  {
+    "category": "XL",
+    "name": "Sound - BURR (Groß)",
+    "path": "shaker/xl/XL_02_Sound-BURR-Gro.webp",
+    "cdnPath": "s/x02.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x02.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/sound-burr-gross/746130b20b-1784664142/untitled-21.-juli-2026-um-20.46.39-x400-q78.webp"
+  },
+  {
+    "category": "XL",
+    "name": "HOLY Squad",
+    "path": "shaker/xl/XL_03_HOLY-Squad.webp",
+    "cdnPath": "s/x03.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x03.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/holy-squad/393b0387a1-1781862300/holy_shaker_holysquad700_01-x400-q78.webp"
+  },
+  {
+    "category": "XL",
+    "name": "HOLY Squad - Lizard",
+    "path": "shaker/xl/XL_04_HOLY-Squad-Lizard.webp",
+    "cdnPath": "s/x04.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x04.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/holy-squad-lizard/f20823125c-1781862302/holy_shaker_holysquad700_lizard_01-x400-q78.webp"
+  },
+  {
+    "category": "XL",
+    "name": "700ml HOLY Logo",
+    "path": "shaker/xl/XL_05_700ml-HOLY-Logo.webp",
+    "cdnPath": "s/x05.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x05.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/700ml-holy-logo/71edba7e82-1781862304/holy_shaker_newlogo_seethrough_700-x400-q78.webp"
+  },
+  {
+    "category": "XL",
+    "name": "HOLY Retro",
+    "path": "shaker/xl/XL_06_HOLY-Retro.webp",
+    "cdnPath": "s/x06.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x06.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/holy-retro/7580ee6596-1781862300/product_image_energy_07_hs_retro_03_1200x-x400-q78.webp"
+  },
+  {
+    "category": "XL",
+    "name": "XL Shaker Frankreich",
+    "path": "shaker/xl/XL_07_XL-Shaker-Frankreich.webp",
+    "cdnPath": "s/x07.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x07.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/xl-shaker-frankreich/fdcf7cb0aa-1781862302/holy_francesquad_700-x400-q78.webp"
+  },
+  {
+    "category": "XL",
+    "name": "XL Shaker Deutschland",
+    "path": "shaker/xl/XL_08_XL-Shaker-Deutschland.webp",
+    "cdnPath": "s/x08.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x08.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/xl-shaker-deutschland/b31b770a49-1781862300/holy_germanysquad_700-x400-q78.webp"
+  },
+  {
+    "category": "XL",
+    "name": "Hotfoot Run",
+    "path": "shaker/xl/XL_09_Hotfoot-Run.webp",
+    "cdnPath": "s/x09.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x09.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/hotfoot-run/efe62cf857-1781862300/597444488_122148146354924552_7741310965304690943_n.jpg__nc_cat_101_ccb_1-7__nc_sid_bd9a62__nc_ohc_fsbnzco6t5eq7knvwejyv1l__nc_oc-x400-q78.webp"
+  },
+  {
+    "category": "XL",
+    "name": "Darts",
+    "path": "shaker/xl/XL_10_Darts.webp",
+    "cdnPath": "s/x10.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x10.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/darts/50459ef2ba-1781862302/holy_dartsteam_front-x400-q78.webp"
+  },
+  {
+    "category": "XL",
+    "name": "EMS (2025)",
+    "path": "shaker/xl/XL_11_EMS-2025.webp",
+    "cdnPath": "s/x11.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/x11.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/xl/ems-2025/0fe4158d2f-1781862300/ev1a9022-x400-q78.webp"
+  }
+]
