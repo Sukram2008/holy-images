@@ -2,6 +2,7 @@
   {
     "index": 0,
     "name": "Iced Tea Bottle - Acai",
+    "sourceName": "Iced Tea Bottle - Acai",
     "path": "shaker/glasflasche/Glasflasche_01_Iced-Tea-Bottle-Acai.webp",
     "cdnPath": "s/gf01.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf01.webp",
@@ -10,6 +11,7 @@
   {
     "index": 1,
     "name": "HOLY Logo - Sticker",
+    "sourceName": "HOLY Logo - Sticker",
     "path": "shaker/glasflasche/Glasflasche_02_HOLY-Logo-Sticker.webp",
     "cdnPath": "s/gf02.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf02.webp",
@@ -18,6 +20,7 @@
   {
     "index": 2,
     "name": "Iced Tea Bottle - Blackberry",
+    "sourceName": "Iced Tea Bottle - Blackberry",
     "path": "shaker/glasflasche/Glasflasche_03_Iced-Tea-Bottle-Blackberry.webp",
     "cdnPath": "s/gf03.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf03.webp",
@@ -26,6 +29,7 @@
   {
     "index": 3,
     "name": "Iced Tea Bottle - Apple",
+    "sourceName": "Iced Tea Bottle - Apple",
     "path": "shaker/glasflasche/Glasflasche_04_Iced-Tea-Bottle-Apple.webp",
     "cdnPath": "s/gf04.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf04.webp",
@@ -34,6 +38,7 @@
   {
     "index": 4,
     "name": "HOLY Logo - Weiß",
+    "sourceName": "HOLY Logo - Weiß",
     "path": "shaker/glasflasche/Glasflasche_05_HOLY-Logo-Wei.webp",
     "cdnPath": "s/gf05.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf05.webp",
@@ -42,6 +47,7 @@
   {
     "index": 5,
     "name": "Iced Tea Bottle - Raspberry",
+    "sourceName": "Iced Tea Bottle - Raspberry",
     "path": "shaker/glasflasche/Glasflasche_06_Iced-Tea-Bottle-Raspberry.webp",
     "cdnPath": "s/gf06.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf06.webp",
@@ -50,6 +56,7 @@
   {
     "index": 6,
     "name": "HOLYHOLYHOLY",
+    "sourceName": "HOLYHOLYHOLY",
     "path": "shaker/glasflasche/Glasflasche_07_HOLYHOLYHOLY.webp",
     "cdnPath": "s/gf07.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf07.webp",
@@ -58,6 +65,7 @@
   {
     "index": 7,
     "name": "HOLY Squad",
+    "sourceName": "HOLY Squad",
     "path": "shaker/glasflasche/Glasflasche_08_HOLY-Squad.webp",
     "cdnPath": "s/gf08.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf08.webp",
@@ -66,6 +74,7 @@
   {
     "index": 8,
     "name": "Iced Tea Bottle - Peach",
+    "sourceName": "Iced Tea Bottle - Peach",
     "path": "shaker/glasflasche/Glasflasche_09_Iced-Tea-Bottle-Peach.webp",
     "cdnPath": "s/gf09.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf09.webp",
@@ -74,15 +83,16 @@
   {
     "index": 9,
     "name": "Iced Tea Bottle (Variante 1)",
+    "sourceName": "Iced Tea Bottle",
     "path": "shaker/glasflasche/Glasflasche_10_Iced-Tea-Bottle.webp",
     "cdnPath": "s/gf10.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf10.webp",
-    "source": "https://ochdenis.de/media/pages/holy/shaker/glasflasche/iced-tea-bottle/97254bb969-1781862364/23_002_20product_20images_glassbottle_01-x400-q78.webp",
-    "sourceName": "Iced Tea Bottle"
+    "source": "https://ochdenis.de/media/pages/holy/shaker/glasflasche/iced-tea-bottle/97254bb969-1781862364/23_002_20product_20images_glassbottle_01-x400-q78.webp"
   },
   {
     "index": 10,
     "name": "Smiley",
+    "sourceName": "Smiley",
     "path": "shaker/glasflasche/Glasflasche_11_Smiley.webp",
     "cdnPath": "s/gf11.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf11.webp",
@@ -91,6 +101,7 @@
   {
     "index": 11,
     "name": "HOLY Logo - Rot (Adventskalender 2023)",
+    "sourceName": "HOLY Logo - Rot (Adventskalender 2023)",
     "path": "shaker/glasflasche/Glasflasche_12_HOLY-Logo-Rot-Adventskalender-2023.webp",
     "cdnPath": "s/gf12.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf12.webp",
@@ -99,6 +110,7 @@
   {
     "index": 12,
     "name": "HOLY Squad (Adventskalender 2023)",
+    "sourceName": "HOLY Squad (Adventskalender 2023)",
     "path": "shaker/glasflasche/Glasflasche_13_HOLY-Squad-Adventskalender-2023.webp",
     "cdnPath": "s/gf13.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf13.webp",
@@ -107,6 +119,7 @@
   {
     "index": 13,
     "name": "Hydration",
+    "sourceName": "Hydration",
     "path": "shaker/glasflasche/Glasflasche_14_Hydration.webp",
     "cdnPath": "s/gf14.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf14.webp",
@@ -115,6 +128,7 @@
   {
     "index": 14,
     "name": "Energy",
+    "sourceName": "Energy",
     "path": "shaker/glasflasche/Glasflasche_15_Energy.webp",
     "cdnPath": "s/gf15.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf15.webp",
@@ -123,15 +137,16 @@
   {
     "index": 15,
     "name": "Iced Tea Bottle (Variante 2)",
+    "sourceName": "Iced Tea Bottle",
     "path": "shaker/glasflasche/Glasflasche_16_Iced-Tea-Bottle.webp",
     "cdnPath": "s/gf16.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf16.webp",
-    "source": "https://ochdenis.de/media/pages/holy/shaker/glasflasche/iced-tea-bottle-fragezeichen/83cf98c849-1781862366/holy_it_glasflasche1-x400-q78.webp",
-    "sourceName": "Iced Tea Bottle"
+    "source": "https://ochdenis.de/media/pages/holy/shaker/glasflasche/iced-tea-bottle-fragezeichen/83cf98c849-1781862366/holy_it_glasflasche1-x400-q78.webp"
   },
   {
     "index": 16,
     "name": "HOLY Logo - Weiß (Transparente Flasche)",
+    "sourceName": "HOLY Logo - Weiß (Transparente Flasche)",
     "path": "shaker/glasflasche/Glasflasche_17_HOLY-Logo-Wei-Transparente-Flasche.webp",
     "cdnPath": "s/gf17.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf17.webp",
@@ -140,6 +155,7 @@
   {
     "index": 17,
     "name": "Adventskalender 2024",
+    "sourceName": "Adventskalender 2024",
     "path": "shaker/glasflasche/Glasflasche_18_Adventskalender-2024.webp",
     "cdnPath": "s/gf18.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf18.webp",
@@ -148,6 +164,7 @@
   {
     "index": 18,
     "name": "Checkered Glass Bottle",
+    "sourceName": "Checkered Glass Bottle",
     "path": "shaker/glasflasche/Glasflasche_19_Checkered-Glass-Bottle.webp",
     "cdnPath": "s/gf19.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf19.webp",
@@ -156,6 +173,7 @@
   {
     "index": 19,
     "name": "NYNM",
+    "sourceName": "NYNM",
     "path": "shaker/glasflasche/Glasflasche_20_NYNM.webp",
     "cdnPath": "s/gf20.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf20.webp",
@@ -164,6 +182,7 @@
   {
     "index": 20,
     "name": "Hydration Limited",
+    "sourceName": "Hydration Limited",
     "path": "shaker/glasflasche/Glasflasche_21_Hydration-Limited.webp",
     "cdnPath": "s/gf21.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf21.webp",
@@ -172,6 +191,7 @@
   {
     "index": 21,
     "name": "Iced Tea Classics",
+    "sourceName": "Iced Tea Classics",
     "path": "shaker/glasflasche/Glasflasche_22_Iced-Tea-Classics.webp",
     "cdnPath": "s/gf22.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf22.webp",
@@ -180,6 +200,7 @@
   {
     "index": 22,
     "name": "Raptor Egg Glasflasche",
+    "sourceName": "Raptor Egg Glasflasche",
     "path": "shaker/glasflasche/Glasflasche_23_Raptor-Egg-Glasflasche.webp",
     "cdnPath": "s/gf23.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf23.webp",
@@ -188,6 +209,7 @@
   {
     "index": 23,
     "name": "Reward - Grün",
+    "sourceName": "Reward - Grün",
     "path": "shaker/glasflasche/Glasflasche_24_Reward-Grun.webp",
     "cdnPath": "s/gf24.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf24.webp",
@@ -196,6 +218,7 @@
   {
     "index": 24,
     "name": "Reward - Orange",
+    "sourceName": "Reward - Orange",
     "path": "shaker/glasflasche/Glasflasche_25_Reward-Orange.webp",
     "cdnPath": "s/gf25.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf25.webp",
@@ -204,6 +227,7 @@
   {
     "index": 25,
     "name": "BURRsday Glasflasche",
+    "sourceName": "BURRsday Glasflasche",
     "path": "shaker/glasflasche/Glasflasche_26_BURRsday-Glasflasche.webp",
     "cdnPath": "s/gf26.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gf26.webp",
