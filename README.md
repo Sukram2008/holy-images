@@ -48,6 +48,7 @@ Die Datei muss unter exakt diesem Pfad im öffentlichen Repository liegen. Datei
 - `Import OchDenis Spezial shaker images`: übernimmt alle 65 Einträge der Kategorie Spezial.
 - `Import OchDenis XL shaker images`: übernimmt alle 11 Einträge der Kategorie XL.
 - `Import OchDenis Giga Gallon and Glasflasche shaker images`: übernimmt 7 Giga-Gallon-Modelle und 26 Glasflaschen aus den gleichnamigen Kategorien.
+- `Import OchDenis Thermo shaker images`: übernimmt alle 94 Produkte der exakten Hauptkategorie `Thermo` (nicht die getrennten Creator-Kategorien).
 
 Alle Importe prüfen Dateityp und Bilddaten und committen die Ergebnisse gesammelt. Schlägt eine Bildprüfung fehl, bricht der Import ab, statt einen unvollständigen Katalog als erfolgreich zu melden.
 
@@ -71,5 +72,6 @@ Original product image files remain in their category folders. The `s/` director
 - `s/x##.webp`: XL
 - `s/gg##.webp`: Giga Gallon
 - `s/gf##.webp`: Glasflasche
+- `s/th###.webp`: Thermo
 
 The aliases point to the same Git blobs; no image is recompressed or changed.
