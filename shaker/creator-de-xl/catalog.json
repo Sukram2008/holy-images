@@ -1,0 +1,74 @@
+[
+  {
+    "index": 0,
+    "name": "HOLY X Mission Unknown Shaker",
+    "sourceName": "HOLY X Mission Unknown Shaker",
+    "path": "shaker/creator-de-xl/Creator-DE-XL_01_HOLY-X-Mission-Unknown-Shaker.webp",
+    "cdnPath": "s/cx01.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cx01.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-de-xl/holy-x-mission-unknown-shaker/c8306bc38a-1781862366/mission_20unknown_20plastic_20shaker_2-x400-q78.webp"
+  },
+  {
+    "index": 1,
+    "name": "HOLY Schlappen",
+    "sourceName": "HOLY Schlappen",
+    "path": "shaker/creator-de-xl/Creator-DE-XL_02_HOLY-Schlappen.webp",
+    "cdnPath": "s/cx02.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cx02.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-de-xl/holy-schlappen/014467a5cf-1781862366/schlappen_shaker_front-x400-q78.webp"
+  },
+  {
+    "index": 2,
+    "name": "Just Nero",
+    "sourceName": "Just Nero",
+    "path": "shaker/creator-de-xl/Creator-DE-XL_03_Just-Nero.webp",
+    "cdnPath": "s/cx03.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cx03.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-de-xl/just-nero/9b23e8dbea-1781862366/imgi_1_justnero_front-x400-q78.webp"
+  },
+  {
+    "index": 3,
+    "name": "Manhunt (2026)",
+    "sourceName": "Manhunt (2026)",
+    "path": "shaker/creator-de-xl/Creator-DE-XL_04_Manhunt-2026.webp",
+    "cdnPath": "s/cx04.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cx04.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-de-xl/manhunt-2026/ade6d0dc6d-1789464362/imgi_3_manhunt_front-x400-q78.webp"
+  },
+  {
+    "index": 4,
+    "name": "Metzgermeister-Rögele",
+    "sourceName": "Metzgermeister-Rögele",
+    "path": "shaker/creator-de-xl/Creator-DE-XL_05_Metzgermeister-Rogele.webp",
+    "cdnPath": "s/cx05.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cx05.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-de-xl/metzgermeister-roegele/eb79a47c92-1785747040/imgi_1_roegele_front-x400-q78.webp"
+  },
+  {
+    "index": 5,
+    "name": "GaTo",
+    "sourceName": "GaTo",
+    "path": "shaker/creator-de-xl/Creator-DE-XL_06_GaTo.webp",
+    "cdnPath": "s/cx06.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cx06.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-de-xl/gato/efe3848058-1791808354/imgi_19_gato_front-x400-q78.webp"
+  },
+  {
+    "index": 6,
+    "name": "Kay",
+    "sourceName": "Kay",
+    "path": "shaker/creator-de-xl/Creator-DE-XL_07_Kay.webp",
+    "cdnPath": "s/cx07.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cx07.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-de-xl/kay/240ff9772d-1792678890/imgi_1_kay_front_20_281_29-x400-q78.webp"
+  },
+  {
+    "index": 7,
+    "name": "Sephi",
+    "sourceName": "Sephi",
+    "path": "shaker/creator-de-xl/Creator-DE-XL_08_Sephi.webp",
+    "cdnPath": "s/cx08.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cx08.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-de-xl/sephi/466fc933b5-1793023790/imgi_1_sephi_front-x400-q78.webp"
+  }
+]
