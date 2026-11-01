@@ -51,3 +51,15 @@ Beide Importe prüfen Dateityp und Bilddaten und committen die Ergebnisse gesamm
 - Nur eindeutig zugeordnete Produktbilder verwenden.
 - jsDelivr cached Dateien. Bei Bildwechsel unter demselben Pfad kann es eine Weile dauern, bis die neue Version überall sichtbar ist.
 - Keine privaten oder vertraulichen Dateien hochladen.
+
+
+## Compact CDN aliases
+
+Original product image files remain in their category folders. The `s/` directory contains short GitHub-blob aliases for efficient jsDelivr URLs:
+- `s/e###.webp`: standard Energy
+- `s/i###.webp`: standard Iced Tea
+- `s/h###.webp`: standard Hydration
+- `s/m###.webp`: standard Milkshake
+- `s/p##.webp`: Spezial
+
+The aliases point to the same Git blobs; no image is recompressed or changed.
