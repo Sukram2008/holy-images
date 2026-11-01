@@ -1,0 +1,58 @@
+[
+  {
+    "index": 0,
+    "name": "Giga Gallon",
+    "path": "shaker/giga-gallon/Giga-Gallon_01_Giga-Gallon.webp",
+    "cdnPath": "s/gg01.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gg01.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/giga-gallon/giga-gallon/c30dbee433-1781862178/untitled_1200_x_300_px-x400-q78.webp"
+  },
+  {
+    "index": 1,
+    "name": "Safari Edition",
+    "path": "shaker/giga-gallon/Giga-Gallon_02_Safari-Edition.webp",
+    "cdnPath": "s/gg02.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gg02.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/giga-gallon/safari-edition/a24fbb20a4-1781862178/holy_insta_marz22_6-x400-q78.webp"
+  },
+  {
+    "index": 2,
+    "name": "Giga Gallon - Pink",
+    "path": "shaker/giga-gallon/Giga-Gallon_03_Giga-Gallon-Pink.webp",
+    "cdnPath": "s/gg03.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gg03.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/giga-gallon/giga-gallon-pink/9bfbbfae91-1781862178/product_image_energy_04_gigagallon_pink_01_1800x-x400-q78.webp"
+  },
+  {
+    "index": 3,
+    "name": "Giga Gallon - HOLY",
+    "path": "shaker/giga-gallon/Giga-Gallon_04_Giga-Gallon-HOLY.webp",
+    "cdnPath": "s/gg04.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gg04.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/giga-gallon/giga-gallon-holy/35f87fcd45-1781862178/product_image_energy_04_gigagallon_blanc_02_20_2-x400-q78.webp"
+  },
+  {
+    "index": 4,
+    "name": "Giga Gallon - Giraffe",
+    "path": "shaker/giga-gallon/Giga-Gallon_05_Giga-Gallon-Giraffe.webp",
+    "cdnPath": "s/gg05.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gg05.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/giga-gallon/giga-gallon-giraffe/14a4e595e7-1781862178/sh-0101_83n7sr-x400-q78.webp"
+  },
+  {
+    "index": 5,
+    "name": "Giga Gallon - Hydration",
+    "path": "shaker/giga-gallon/Giga-Gallon_06_Giga-Gallon-Hydration.webp",
+    "cdnPath": "s/gg06.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gg06.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/giga-gallon/giga-gallon-hydration/76c72f9daf-1781862178/upsell_20gallon-x400-q78.webp"
+  },
+  {
+    "index": 6,
+    "name": "Giga Gallon – Kola Koala",
+    "path": "shaker/giga-gallon/Giga-Gallon_07_Giga-Gallon-Kola-Koala.webp",
+    "cdnPath": "s/gg07.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/gg07.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/giga-gallon/giga-gallon-kola-koala/c3eab9f01e-1781862176/upsell-gallon-x400-q78.webp"
+  }
+]
