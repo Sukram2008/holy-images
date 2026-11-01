@@ -1,0 +1,29 @@
+[
+  {
+    "index": 0,
+    "name": "Syru",
+    "sourceName": "Syru",
+    "path": "shaker/syrup-bottle/Syrup-Bottle_01_Syru.webp",
+    "cdnPath": "s/sb01.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/sb01.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/syrup-bottle/syru/49dd2679f6-1784676276/imgi_1_syrup-shaker-syro-x400-q78.webp"
+  },
+  {
+    "index": 1,
+    "name": "Darko",
+    "sourceName": "Darko",
+    "path": "shaker/syrup-bottle/Syrup-Bottle_02_Darko.webp",
+    "cdnPath": "s/sb02.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/sb02.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/syrup-bottle/darko/1d728e9fbc-1784676292/imgi_1_syrup-shaker-darko-x400-q78.webp"
+  },
+  {
+    "index": 2,
+    "name": "Raptor",
+    "sourceName": "Raptor",
+    "path": "shaker/syrup-bottle/Syrup-Bottle_03_Raptor.webp",
+    "cdnPath": "s/sb03.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/sb03.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/syrup-bottle/raptor/f5266b4239-1784676310/imgi_1_syrup-shaker-rapture-x400-q78.webp"
+  }
+]
