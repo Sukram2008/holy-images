@@ -1,0 +1,58 @@
+name: Import OchDenis Syrup Bottle shaker images
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/import-ochdenis-syrup-bottle.yml"
+      - ".github/scripts/import_ochdenis_syrup_bottle.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ochdenis-syrup-bottle-import
+  cancel-in-progress: false
+
+jobs:
+  import-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check requests beautifulsoup4 pillow
+
+      - name: Download and validate all 3 Syrup Bottle images
+        run: python .github/scripts/import_ochdenis_syrup_bottle.py
+
+      - name: Write summary
+        if: always()
+        run: |
+          if [ -f /tmp/syrup-bottle-shaker-summary.md ]; then
+            cat /tmp/syrup-bottle-shaker-summary.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "Syrup Bottle import incomplete; no success commit was made." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Commit original images, manifest and compact CDN aliases
+        run: |
+          if [ -z "$(git status --porcelain -- shaker/syrup-bottle s/sb*)" ]; then
+            echo "No Syrup Bottle image changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- shaker/syrup-bottle
+          for file in s/sb*; do
+            [ -f "$file" ] && git add -- "$file"
+          done
+          git commit -m "Import OchDenis Syrup Bottle shaker images [skip image-import]"
+          git push
