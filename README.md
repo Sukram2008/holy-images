@@ -21,7 +21,10 @@ holy-images/
     ├── xl/            (11 Bilder)
     ├── giga-gallon/   (7 Bilder)
     ├── glasflasche/  (26 Bilder)
-    └── thermo/        (94 Bilder)
+    ├── thermo/             (94 Bilder)
+    ├── creator-de/          (58 Bilder)
+    ├── creator-de-xl/       (8 Bilder)
+    └── creator-de-thermo/   (9 Bilder)
 ```
 
 ## Dateinamen
@@ -50,6 +53,7 @@ Die Datei muss unter exakt diesem Pfad im öffentlichen Repository liegen. Datei
 - `Import OchDenis XL shaker images`: übernimmt alle 11 Einträge der Kategorie XL.
 - `Import OchDenis Giga Gallon and Glasflasche shaker images`: übernimmt 7 Giga-Gallon-Modelle und 26 Glasflaschen aus den gleichnamigen Kategorien.
 - `Import OchDenis Thermo shaker images`: übernimmt alle 94 Produkte der exakten Hauptkategorie `Thermo` (nicht die getrennten Creator-Kategorien).
+- `Import OchDenis Creator-DE shaker images`: übernimmt die drei getrennten Kategorien `Creator - DE` (58), `Creator - DE - XL` (8) und `Creator - DE - Thermo` (9).
 
 Alle Importe prüfen Dateityp und Bilddaten und committen die Ergebnisse gesammelt. Schlägt eine Bildprüfung fehl, bricht der Import ab, statt einen unvollständigen Katalog als erfolgreich zu melden.
 
@@ -74,5 +78,8 @@ Original product image files remain in their category folders. The `s/` director
 - `s/gg##.webp`: Giga Gallon
 - `s/gf##.webp`: Glasflasche
 - `s/th###.webp`: Thermo
+- `s/cd###.webp`: Creator - DE
+- `s/cx##.webp`: Creator - DE - XL
+- `s/ct##.webp`: Creator - DE - Thermo
 
 The aliases point to the same Git blobs; no image is recompressed or changed.
