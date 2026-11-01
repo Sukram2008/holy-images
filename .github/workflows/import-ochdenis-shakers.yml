@@ -44,7 +44,7 @@ jobs:
 
       - name: Commit all imported shaker images
         run: |
-          if git diff --quiet -- shaker; then
+          if [ -z "$(git status --porcelain -- shaker)" ]; then
             echo "No image changes."
             exit 0
           fi
