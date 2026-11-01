@@ -16,7 +16,8 @@ holy-images/
     ├── energy/
     ├── iced-tea/
     ├── hydration/
-    └── milkshake/
+    ├── milkshake/
+    └── spezial/  (65 Bilder)
 ```
 
 ## Dateinamen
@@ -41,6 +42,7 @@ Die Datei muss unter exakt diesem Pfad im öffentlichen Repository liegen. Datei
 
 - `Import OchDenis Tub images`: liest die Sortenübersicht und übernimmt je Sorte das erste Produktbild.
 - `Import OchDenis shaker images`: übernimmt Bilder aus den regulären Kategorien Energy, Iced Tea, Hydration und Milkshake. Alternative Kategorien wie `Energy (Alt Bunt)`, `Energy (Alt Schwarz)` und `Iced Tea (Alt Schwarz)` bleiben ausgeschlossen.
+- `Import OchDenis Spezial shaker images`: übernimmt alle 65 Einträge der Kategorie Spezial.
 
 Beide Importe prüfen Dateityp und Bilddaten und committen die Ergebnisse gesammelt. Schlägt eine Bildprüfung fehl, bricht der Import ab, statt einen unvollständigen Katalog als erfolgreich zu melden.
 
