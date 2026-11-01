@@ -1,0 +1,848 @@
+[
+  {
+    "index": 0,
+    "name": "Forme Special (500ml + Pulverfach)",
+    "sourceName": "Forme Special (500ml + Pulverfach)",
+    "path": "shaker/thermo/Thermo_001_Forme-Special-500ml-Pulverfach.webp",
+    "cdnPath": "s/th001.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th001.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/forme-special-500ml-pulverfach/b40e7dc550-1781862344/ig031221-x400-q78.webp"
+  },
+  {
+    "index": 1,
+    "name": "Steel Shaker - Schwarz Matt (500ml + Pulverfach)",
+    "sourceName": "Steel Shaker - Schwarz Matt (500ml + Pulverfach)",
+    "path": "shaker/thermo/Thermo_002_Steel-Shaker-Schwarz-Matt-500ml-Pulverfach.webp",
+    "cdnPath": "s/th002.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th002.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/steel-shaker-schwarz-matt-500ml-pulverfach/9aaa03bf94-1781862336/holy_newlogo_formeshaker_01-x400-q78.webp"
+  },
+  {
+    "index": 2,
+    "name": "Steel Shaker - Weiß Matt (500ml + Pulverfach)",
+    "sourceName": "Steel Shaker - Weiß Matt (500ml + Pulverfach)",
+    "path": "shaker/thermo/Thermo_003_Steel-Shaker-Wei-Matt-500ml-Pulverfach.webp",
+    "cdnPath": "s/th003.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th003.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/steel-shaker-weiss-matt-500ml-pulverfach/bd5f024fc4-1781862346/holy_newlogo_formeshaker_02-x400-q78.webp"
+  },
+  {
+    "index": 3,
+    "name": "Steel Shaker - Babyblaue Squad Edition (500ml + Pulverfach)",
+    "sourceName": "Steel Shaker - Babyblaue Squad Edition (500ml + Pulverfach)",
+    "path": "shaker/thermo/Thermo_004_Steel-Shaker-Babyblaue-Squad-Edition-500ml-Pulverfach.webp",
+    "cdnPath": "s/th004.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th004.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/steel-shaker-babyblaue-squad-edition-500ml-pulverfach/bf5d767271-1781862346/holy_newlogo_formeshaker_03-x400-q78.webp"
+  },
+  {
+    "index": 4,
+    "name": "Gelb/Pink (700ml)",
+    "sourceName": "Gelb/Pink (700ml)",
+    "path": "shaker/thermo/Thermo_005_Gelb-Pink-700ml.webp",
+    "cdnPath": "s/th005.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th005.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/gelb-pink-700ml/745f1f6bd9-1781862358/holy_formeshaker_raptor_01_01-x400-q78.webp"
+  },
+  {
+    "index": 5,
+    "name": "Blau/Orange (700ml)",
+    "sourceName": "Blau/Orange (700ml)",
+    "path": "shaker/thermo/Thermo_006_Blau-Orange-700ml.webp",
+    "cdnPath": "s/th006.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th006.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/blau-orange-700ml/d9b8f7b85a-1781862350/shaker_forme_blueorange_04_w22sfo_109ca73a-c53b-4060-8597-01dae27612f6-x400-q78.webp"
+  },
+  {
+    "index": 6,
+    "name": "Grün (700ml)",
+    "sourceName": "Grün (700ml)",
+    "path": "shaker/thermo/Thermo_007_Grun-700ml.webp",
+    "cdnPath": "s/th007.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th007.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/grun-700ml/2a52146152-1781862350/shaker_forme_green_03_m56f6l-x400-q78.webp"
+  },
+  {
+    "index": 7,
+    "name": "Flieder (700ml)",
+    "sourceName": "Flieder (700ml)",
+    "path": "shaker/thermo/Thermo_008_Flieder-700ml.webp",
+    "cdnPath": "s/th008.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th008.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/flieder-700ml/73cb2eef8f-1781862334/shaker_forme_lilac_02_2skvko-x400-q78.webp"
+  },
+  {
+    "index": 8,
+    "name": "Schwarz (700ml)",
+    "sourceName": "Schwarz (700ml)",
+    "path": "shaker/thermo/Thermo_009_Schwarz-700ml.webp",
+    "cdnPath": "s/th009.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th009.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/schwarz-700ml/a3d17ea21f-1781862354/shaker_forme_blackcaro_01-x400-q78.webp"
+  },
+  {
+    "index": 9,
+    "name": "HOLY Hydration (Alt) (700ml)",
+    "sourceName": "HOLY Hydration (Alt) (700ml)",
+    "path": "shaker/thermo/Thermo_010_HOLY-Hydration-Alt-700ml.webp",
+    "cdnPath": "s/th010.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th010.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/holy-hydration-alt-700ml/992f5303f9-1781862346/sh-0061-x400-q78.webp"
+  },
+  {
+    "index": 10,
+    "name": "Checkered (700ml)",
+    "sourceName": "Checkered (700ml)",
+    "path": "shaker/thermo/Thermo_011_Checkered-700ml.webp",
+    "cdnPath": "s/th011.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th011.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/checkered-700ml/73187a913a-1781862328/holy_formeshaker_checker_01_01-x400-q78.webp"
+  },
+  {
+    "index": 11,
+    "name": "Sticker (Adventskalender 2023) (700ml)",
+    "sourceName": "Sticker (Adventskalender 2023) (700ml)",
+    "path": "shaker/thermo/Thermo_012_Sticker-Adventskalender-2023-700ml.webp",
+    "cdnPath": "s/th012.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th012.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/sticker-adventskalender-2023-700ml/beb7a2521e-1781862336/holy_formeshaker_sticker_01_01-x400-q78.webp"
+  },
+  {
+    "index": 12,
+    "name": "HOLY Energy (700ml)",
+    "sourceName": "HOLY Energy (700ml)",
+    "path": "shaker/thermo/Thermo_013_HOLY-Energy-700ml.webp",
+    "cdnPath": "s/th013.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th013.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/holy-energy-700ml/619b34f462-1781862330/88_20_1-x400-q78.webp"
+  },
+  {
+    "index": 13,
+    "name": "HOLY Iced Tea (700ml)",
+    "sourceName": "HOLY Iced Tea (700ml)",
+    "path": "shaker/thermo/Thermo_014_HOLY-Iced-Tea-700ml.webp",
+    "cdnPath": "s/th014.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th014.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/holy-iced-tea-700ml/33861a626e-1781862340/89_20_1-x400-q78.webp"
+  },
+  {
+    "index": 14,
+    "name": "HOLY Hydration (700ml)",
+    "sourceName": "HOLY Hydration (700ml)",
+    "path": "shaker/thermo/Thermo_015_HOLY-Hydration-700ml.webp",
+    "cdnPath": "s/th015.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th015.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/holy-hydration-700ml/fd798004de-1781862342/90_20_1-x400-q78.webp"
+  },
+  {
+    "index": 15,
+    "name": "Citrus Cobra (700ml)",
+    "sourceName": "Citrus Cobra (700ml)",
+    "path": "shaker/thermo/Thermo_016_Citrus-Cobra-700ml.webp",
+    "cdnPath": "s/th016.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th016.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/citrus-cobra-700ml/c651b54406-1781862346/holy_formeshaker_cobra_01_01-x400-q78.webp"
+  },
+  {
+    "index": 16,
+    "name": "Strawberry Shark (700ml)",
+    "sourceName": "Strawberry Shark (700ml)",
+    "path": "shaker/thermo/Thermo_017_Strawberry-Shark-700ml.webp",
+    "cdnPath": "s/th017.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th017.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/strawberry-shark-700ml/de15694aaf-1781862348/thermoshaker_shark_4dc700ba-3675-4523-9bc4-f92e966d4b90-x400-q78.webp"
+  },
+  {
+    "index": 17,
+    "name": "Peach (700ml)",
+    "sourceName": "Peach (700ml)",
+    "path": "shaker/thermo/Thermo_018_Peach-700ml.webp",
+    "cdnPath": "s/th018.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th018.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/peach-700ml/124601e3a9-1781862356/thermoshaker_peach-x400-q78.webp"
+  },
+  {
+    "index": 18,
+    "name": "Mint (700ml)",
+    "sourceName": "Mint (700ml)",
+    "path": "shaker/thermo/Thermo_019_Mint-700ml.webp",
+    "cdnPath": "s/th019.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th019.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/mint-700ml/fa37bd0a42-1781862332/thermoshaker_mint-x400-q78.webp"
+  },
+  {
+    "index": 19,
+    "name": "Color Changing - Orange/Pink (700ml)",
+    "sourceName": "Color Changing - Orange/Pink (700ml)",
+    "path": "shaker/thermo/Thermo_020_Color-Changing-Orange-Pink-700ml.webp",
+    "cdnPath": "s/th020.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th020.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/color-changing-orange-pink-700ml/49c15dfc64-1781862348/17_h34851-x400-q78.webp"
+  },
+  {
+    "index": 20,
+    "name": "Color Changing - Grün/Gelb (700ml)",
+    "sourceName": "Color Changing - Grün/Gelb (700ml)",
+    "path": "shaker/thermo/Thermo_021_Color-Changing-Grun-Gelb-700ml.webp",
+    "cdnPath": "s/th021.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th021.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/color-changing-grun-gelb-700ml/ec426db333-1781862338/16_6kb9a6-x400-q78.webp"
+  },
+  {
+    "index": 21,
+    "name": "Collector's Box - Raptor (700ml)",
+    "sourceName": "Collector's Box - Raptor (700ml)",
+    "path": "shaker/thermo/Thermo_022_Collector-s-Box-Raptor-700ml.webp",
+    "cdnPath": "s/th022.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th022.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/collector-s-box-raptor-700ml/4e8a405c9b-1781862344/ne-thermoshaker-special-gold-x400-q78.webp"
+  },
+  {
+    "index": 22,
+    "name": "Collector's Box - Cobra (700ml)",
+    "sourceName": "Collector's Box - Cobra (700ml)",
+    "path": "shaker/thermo/Thermo_023_Collector-s-Box-Cobra-700ml.webp",
+    "cdnPath": "s/th023.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th023.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/collector-s-box-cobra-700ml/3db58d9a7a-1781862348/ne-thermoshaker-special-silver-x400-q78.webp"
+  },
+  {
+    "index": 23,
+    "name": "Collector's Box - Tiger (700ml)",
+    "sourceName": "Collector's Box - Tiger (700ml)",
+    "path": "shaker/thermo/Thermo_024_Collector-s-Box-Tiger-700ml.webp",
+    "cdnPath": "s/th024.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th024.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/collector-s-box-tiger-700ml/3c5ad9579f-1781862330/ne-thermoshaker-special-bronze-x400-q78.webp"
+  },
+  {
+    "index": 24,
+    "name": "Multichrom (700ml)",
+    "sourceName": "Multichrom (700ml)",
+    "path": "shaker/thermo/Thermo_025_Multichrom-700ml.webp",
+    "cdnPath": "s/th025.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th025.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/multichrom-700ml/e1b78aaf35-1781862348/sh-0095-20_20_3-x400-q78.webp"
+  },
+  {
+    "index": 25,
+    "name": "HOLY x hitschies (700ml)",
+    "sourceName": "HOLY x hitschies (700ml)",
+    "path": "shaker/thermo/Thermo_026_HOLY-x-hitschies-700ml.webp",
+    "cdnPath": "s/th026.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th026.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/holy-x-hitschies-700ml/002072c0ce-1781862358/sh-0106-x400-q78.webp"
+  },
+  {
+    "index": 26,
+    "name": "Collector's Box - Raptor - Ersatz (700ml)",
+    "sourceName": "Collector's Box - Raptor - Ersatz (700ml)",
+    "path": "shaker/thermo/Thermo_027_Collector-s-Box-Raptor-Ersatz-700ml.webp",
+    "cdnPath": "s/th027.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th027.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/collector-s-box-raptor-ersatz-700ml/d93fedbc04-1781862334/metallicforme_raptor_02_01-x400-q78.webp"
+  },
+  {
+    "index": 27,
+    "name": "Collector's Box - Cobra - Ersatz (700ml)",
+    "sourceName": "Collector's Box - Cobra - Ersatz (700ml)",
+    "path": "shaker/thermo/Thermo_028_Collector-s-Box-Cobra-Ersatz-700ml.webp",
+    "cdnPath": "s/th028.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th028.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/collector-s-box-cobra-ersatz-700ml/fe14e3843e-1781862336/metallicforme_cobra_02_01-x400-q78.webp"
+  },
+  {
+    "index": 28,
+    "name": "Collector's Box - Tiger - Ersatz (700ml)",
+    "sourceName": "Collector's Box - Tiger - Ersatz (700ml)",
+    "path": "shaker/thermo/Thermo_029_Collector-s-Box-Tiger-Ersatz-700ml.webp",
+    "cdnPath": "s/th029.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th029.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/collector-s-box-tiger-ersatz-700ml/fb9f887597-1781862348/metallicforme_tiger_02_01-x400-q78.webp"
+  },
+  {
+    "index": 29,
+    "name": "Community - Pink/Orange (700ml)",
+    "sourceName": "Community - Pink/Orange (700ml)",
+    "path": "shaker/thermo/Thermo_030_Community-Pink-Orange-700ml.webp",
+    "cdnPath": "s/th030.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th030.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/community-pink-orange-700ml/20a70a816e-1781862328/17_pghyg3-x400-q78.webp"
+  },
+  {
+    "index": 30,
+    "name": "Community - Gelb/Türkis (700ml)",
+    "sourceName": "Community - Gelb/Türkis (700ml)",
+    "path": "shaker/thermo/Thermo_031_Community-Gelb-Turkis-700ml.webp",
+    "cdnPath": "s/th031.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th031.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/community-gelb-turkis-700ml/e56c6f8a40-1781862326/21_yn2p5f-x400-q78.webp"
+  },
+  {
+    "index": 31,
+    "name": "Community - Blau/Mintgrün (700ml)",
+    "sourceName": "Community - Blau/Mintgrün (700ml)",
+    "path": "shaker/thermo/Thermo_032_Community-Blau-Mintgrun-700ml.webp",
+    "cdnPath": "s/th032.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th032.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/community-blau-mintgrun-700ml/d9d620652f-1781862356/20_taj1tq-x400-q78.webp"
+  },
+  {
+    "index": 32,
+    "name": "Community - Rot/Schwarz (700ml)",
+    "sourceName": "Community - Rot/Schwarz (700ml)",
+    "path": "shaker/thermo/Thermo_033_Community-Rot-Schwarz-700ml.webp",
+    "cdnPath": "s/th033.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th033.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/community-rot-schwarz-700ml/51642e151a-1781862346/19_asutft-x400-q78.webp"
+  },
+  {
+    "index": 33,
+    "name": "Community - Grün/Pink (700ml)",
+    "sourceName": "Community - Grün/Pink (700ml)",
+    "path": "shaker/thermo/Thermo_034_Community-Grun-Pink-700ml.webp",
+    "cdnPath": "s/th034.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th034.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/community-grun-pink-700ml/186ba1b67d-1781862352/18_o1g3i7-x400-q78.webp"
+  },
+  {
+    "index": 34,
+    "name": "Halloween (700ml)",
+    "sourceName": "Halloween (700ml)",
+    "path": "shaker/thermo/Thermo_035_Halloween-700ml.webp",
+    "cdnPath": "s/th035.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th035.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/halloween-700ml/bfaed0214b-1781862356/glowinthedark_20thermo_20shaker-x400-q78.webp"
+  },
+  {
+    "index": 35,
+    "name": "1L Black (1000ml - Deckel mit Griff)",
+    "sourceName": "1L Black (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_036_1L-Black-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th036.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th036.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/1l-black-1000ml-deckel-mit-griff/32690beb8b-1781862356/shaker_forme_blackcaro_01-x400-q78.webp"
+  },
+  {
+    "index": 36,
+    "name": "Frosty Fox (700ml)",
+    "sourceName": "Frosty Fox (700ml)",
+    "path": "shaker/thermo/Thermo_037_Frosty-Fox-700ml.webp",
+    "cdnPath": "s/th037.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th037.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/frosty-fox-700ml/ff1305b46c-1781862328/sh-0135_9c5c9b14-9101-4aa5-89dc-afecc9902c9c-x400-q78.webp"
+  },
+  {
+    "index": 37,
+    "name": "Adventskalender 2024 (700ml)",
+    "sourceName": "Adventskalender 2024 (700ml)",
+    "path": "shaker/thermo/Thermo_038_Adventskalender-2024-700ml.webp",
+    "cdnPath": "s/th038.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th038.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/adventskalender-2024-700ml/5f16d10fe4-1781862338/metallicforme_bubblylogo_01_01-x400-q78.webp"
+  },
+  {
+    "index": 38,
+    "name": "Dragonfruit (700ml)",
+    "sourceName": "Dragonfruit (700ml)",
+    "path": "shaker/thermo/Thermo_039_Dragonfruit-700ml.webp",
+    "cdnPath": "s/th039.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th039.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/dragonfruit-700ml/9a25a7c028-1781862352/pink_20thermo_20shaker-x400-q78.webp"
+  },
+  {
+    "index": 39,
+    "name": "1L Purple (1000ml - Deckel mit Griff)",
+    "sourceName": "1L Purple (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_040_1L-Purple-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th040.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th040.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/1l-purple-1000ml-deckel-mit-griff/1cb4afd746-1781862342/holy_forme_1l_purple-x400-q78.webp"
+  },
+  {
+    "index": 40,
+    "name": "1L Beige (1000ml - Deckel mit Griff)",
+    "sourceName": "1L Beige (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_041_1L-Beige-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th041.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th041.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/1l-beige-1000ml-deckel-mit-griff/04ce790908-1781862330/holy_forme_1l_beige_01-x400-q78.webp"
+  },
+  {
+    "index": 41,
+    "name": "1L DarkBlue (1000ml - Deckel mit Griff)",
+    "sourceName": "1L DarkBlue (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_042_1L-DarkBlue-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th042.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th042.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/1l-darkblue-1000ml-deckel-mit-griff/9011768161-1781862344/holy_forme_1l_darkblue-x400-q78.webp"
+  },
+  {
+    "index": 42,
+    "name": "SpongeBob & Friends - SpongeBob",
+    "sourceName": "SpongeBob & Friends - SpongeBob",
+    "path": "shaker/thermo/Thermo_043_SpongeBob-Friends-SpongeBob.webp",
+    "cdnPath": "s/th043.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th043.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/spongebob-friends-spongebob-700ml/135bcc13c0-1781862332/spongebob_20thermo_20shaker_cj60p8-x400-q78.webp"
+  },
+  {
+    "index": 43,
+    "name": "HOLY x hitschies (2025) (700ml)",
+    "sourceName": "HOLY x hitschies (2025) (700ml)",
+    "path": "shaker/thermo/Thermo_044_HOLY-x-hitschies-2025-700ml.webp",
+    "cdnPath": "s/th044.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th044.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/holy-x-hitschies-2025-700ml/877b6aa0c7-1781862350/hitschies_20thermo_20shaker-x400-q78.webp"
+  },
+  {
+    "index": 44,
+    "name": "Grapefruit Giraffe (1000ml)",
+    "sourceName": "Grapefruit Giraffe (1000ml)",
+    "path": "shaker/thermo/Thermo_045_Grapefruit-Giraffe-1000ml.webp",
+    "cdnPath": "s/th045.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th045.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/grapefruit-giraffe-1000ml/28a1a79aea-1781862346/giraffe_20thermo_20shaker-x400-q78.webp"
+  },
+  {
+    "index": 45,
+    "name": "Tropical Tiger (700ml)",
+    "sourceName": "Tropical Tiger (700ml)",
+    "path": "shaker/thermo/Thermo_046_Tropical-Tiger-700ml.webp",
+    "cdnPath": "s/th046.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th046.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/tropical-tiger-700ml/4edbbccb8a-1781862344/tiger_20thermo_20shaker-x400-q78.webp"
+  },
+  {
+    "index": 46,
+    "name": "Blueberry Bear (700ml)",
+    "sourceName": "Blueberry Bear (700ml)",
+    "path": "shaker/thermo/Thermo_047_Blueberry-Bear-700ml.webp",
+    "cdnPath": "s/th047.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th047.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/blueberry-bear-700ml/83784d6e8c-1781862328/bear_20thermo_20shaker-x400-q78.webp"
+  },
+  {
+    "index": 47,
+    "name": "Cherry Cheetah (700ml)",
+    "sourceName": "Cherry Cheetah (700ml)",
+    "path": "shaker/thermo/Thermo_048_Cherry-Cheetah-700ml.webp",
+    "cdnPath": "s/th048.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th048.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/cherry-cheetah-700ml/a58f93170b-1781862340/cheetah_20thermo_20shaker-x400-q78.webp"
+  },
+  {
+    "index": 48,
+    "name": "Collector's Box - Shark (700ml)",
+    "sourceName": "Collector's Box - Shark (700ml)",
+    "path": "shaker/thermo/Thermo_049_Collector-s-Box-Shark-700ml.webp",
+    "cdnPath": "s/th049.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th049.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/collector-s-box-shark-700ml/b9bf654ee6-1781862334/collectors_20box_20lifestyle-x400-q78.webp"
+  },
+  {
+    "index": 49,
+    "name": "Community - Gelb/Pink/Lila (700ml)",
+    "sourceName": "Community - Gelb/Pink/Lila (700ml)",
+    "path": "shaker/thermo/Thermo_050_Community-Gelb-Pink-Lila-700ml.webp",
+    "cdnPath": "s/th050.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th050.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/community-gelb-pink-lila-700ml/dae742c2b3-1781862350/tricolor_20thermo_20shaker_20yellow_pink_purple-x400-q78.webp"
+  },
+  {
+    "index": 50,
+    "name": "Community - Rot/Orange/Blau (700ml)",
+    "sourceName": "Community - Rot/Orange/Blau (700ml)",
+    "path": "shaker/thermo/Thermo_051_Community-Rot-Orange-Blau-700ml.webp",
+    "cdnPath": "s/th051.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th051.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/community-rot-orange-blau-700ml/dfb7d22039-1781862352/tricolor_20thermo_20shaker_20red_orange_blue-x400-q78.webp"
+  },
+  {
+    "index": 51,
+    "name": "Community - Rosa/Weiß/Grün (700ml)",
+    "sourceName": "Community - Rosa/Weiß/Grün (700ml)",
+    "path": "shaker/thermo/Thermo_052_Community-Rosa-Wei-Grun-700ml.webp",
+    "cdnPath": "s/th052.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th052.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/community-rosa-weiss-grun-700ml/4a672e3f2b-1781862334/tricolor_20thermo_20shaker_20rose_white_lime-x400-q78.webp"
+  },
+  {
+    "index": 52,
+    "name": "Community - Blau/Weiß/Gelb (700ml)",
+    "sourceName": "Community - Blau/Weiß/Gelb (700ml)",
+    "path": "shaker/thermo/Thermo_053_Community-Blau-Wei-Gelb-700ml.webp",
+    "cdnPath": "s/th053.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th053.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/community-blau-weiss-gelb-700ml/9850c35cc1-1781862352/tricolor_20thermo_20shaker_20blue_white_yellow-x400-q78.webp"
+  },
+  {
+    "index": 53,
+    "name": "Community - Türkis/Dunkelgrün (700ml)",
+    "sourceName": "Community - Türkis/Dunkelgrün (700ml)",
+    "path": "shaker/thermo/Thermo_054_Community-Turkis-Dunkelgrun-700ml.webp",
+    "cdnPath": "s/th054.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th054.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/community-turkis-dunkelgrun-700ml/5c46122065-1781862342/tricolor_20thermo_20shaker_20green-x400-q78.webp"
+  },
+  {
+    "index": 54,
+    "name": "Sportsfreund (700ml - Sport-Deckel)",
+    "sourceName": "Sportsfreund (700ml - Sport-Deckel)",
+    "path": "shaker/thermo/Thermo_055_Sportsfreund-700ml-Sport-Deckel.webp",
+    "cdnPath": "s/th055.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th055.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/sportsfreund-700ml-sport-deckel/b7d28bdbc9-1781862330/sports_20shaker-x400-q78.webp"
+  },
+  {
+    "index": 55,
+    "name": "SpongeBob & Friends - Plankton (700ml)",
+    "sourceName": "SpongeBob & Friends - Plankton (700ml)",
+    "path": "shaker/thermo/Thermo_056_SpongeBob-Friends-Plankton-700ml.webp",
+    "cdnPath": "s/th056.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th056.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/spongebob-friends-plankton-700ml/3eb6687f35-1781862354/plankton_20thermo_20shaker_eb79a29a-d380-4a7d-8a8a-8f761d568d8e-x400-q78.webp"
+  },
+  {
+    "index": 56,
+    "name": "SpongeBob & Friends - Patrick",
+    "sourceName": "SpongeBob & Friends - Patrick",
+    "path": "shaker/thermo/Thermo_057_SpongeBob-Friends-Patrick.webp",
+    "cdnPath": "s/th057.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th057.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/spongebob-friends-patrick-700ml/d8010b0ec3-1781862328/patrick_20thermo_20shaker-x400-q78.webp"
+  },
+  {
+    "index": 57,
+    "name": "SpongeBob & Friends - Thaddäus (700ml)",
+    "sourceName": "SpongeBob & Friends - Thaddäus (700ml)",
+    "path": "shaker/thermo/Thermo_058_SpongeBob-Friends-Thaddaus-700ml.webp",
+    "cdnPath": "s/th058.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th058.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/spongebob-friends-thaddaus-700ml/78bbf9bffb-1781862332/thadda_cc_88us_20thermo_20shaker_a6bff4b5-1ad3-4ef1-977c-1d44b472883c-x400-q78.webp"
+  },
+  {
+    "index": 58,
+    "name": "SpongeBob & Friends - Gary (700ml)",
+    "sourceName": "SpongeBob & Friends - Gary (700ml)",
+    "path": "shaker/thermo/Thermo_059_SpongeBob-Friends-Gary-700ml.webp",
+    "cdnPath": "s/th059.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th059.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/spongebob-friends-gary-700ml/b1b76e9b0e-1781862334/gary_20thermo_20shaker_f4ea684a-4214-41fa-9307-e510f9b9a55b-x400-q78.webp"
+  },
+  {
+    "index": 59,
+    "name": "Adventskalender 2025 - Rot",
+    "sourceName": "Adventskalender 2025 - Rot",
+    "path": "shaker/thermo/Thermo_060_Adventskalender-2025-Rot.webp",
+    "cdnPath": "s/th060.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th060.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/adventskalender-2025-rot/26635c2cb9-1784664054/untitled-21.-juli-2026-um-20.41.36-x400-q78.webp"
+  },
+  {
+    "index": 60,
+    "name": "Adventskalender 2025 - Grün",
+    "sourceName": "Adventskalender 2025 - Grün",
+    "path": "shaker/thermo/Thermo_061_Adventskalender-2025-Grun.webp",
+    "cdnPath": "s/th061.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th061.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/adventskalender-2025-gruen/d1663c6d4b-1784664084/untitled-21.-juli-2026-um-20.42.08-x400-q78.webp"
+  },
+  {
+    "index": 61,
+    "name": "Tangerine Tarantula (1000ml - Deckel mit Griff)",
+    "sourceName": "Tangerine Tarantula (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_062_Tangerine-Tarantula-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th062.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th062.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/tangerine-tarantula-1000ml-deckel-mit-griff/6eb6d19caa-1781862340/shaker_20thermo_20tarantula-x400-q78.webp"
+  },
+  {
+    "index": 62,
+    "name": "Pomegranate Piranha (1000ml - Deckel mit Griff)",
+    "sourceName": "Pomegranate Piranha (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_063_Pomegranate-Piranha-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th063.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th063.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/pomegranate-piranha-1000ml-deckel-mit-griff/8edcaff217-1781862332/shaker_20thermo_20piranha-x400-q78.webp"
+  },
+  {
+    "index": 63,
+    "name": "Cherry Cheetah (1000ml - Deckel mit Griff)",
+    "sourceName": "Cherry Cheetah (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_064_Cherry-Cheetah-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th064.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th064.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/cherry-cheetah-1000ml-deckel-mit-griff/452dcbd4d9-1781862344/shaker_20thermo_20cheetah-x400-q78.webp"
+  },
+  {
+    "index": 64,
+    "name": "Blood Orange Bat (1000ml - Deckel mit Griff)",
+    "sourceName": "Blood Orange Bat (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_065_Blood-Orange-Bat-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th065.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th065.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/blood-orange-bat-1000ml-deckel-mit-griff/920f0af8a5-1781862342/shaker_20thermo_20bat-x400-q78.webp"
+  },
+  {
+    "index": 65,
+    "name": "Glow in the Dark (1000ml - Deckel mit Griff)",
+    "sourceName": "Glow in the Dark (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_066_Glow-in-the-Dark-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th066.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th066.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/glow-in-the-dark-1000ml-deckel-mit-griff/1d97d64599-1781862354/shaker_20thermo_20glow_20in_20dark-x400-q78.webp"
+  },
+  {
+    "index": 66,
+    "name": "Cobra (700ml - Deckel mit Griff)",
+    "sourceName": "Cobra (700ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_067_Cobra-700ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th067.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th067.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/cobra-700ml-deckel-mit-griff/c9169f8a9e-1781862350/thermoshaker_cobra-x400-q78.webp"
+  },
+  {
+    "index": 67,
+    "name": "Raptor (700ml - Deckel mit Griff)",
+    "sourceName": "Raptor (700ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_068_Raptor-700ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th068.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th068.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/raptor-700ml-deckel-mit-griff/f1b2b8271d-1781862336/shaker_forme_yellowpink_05_i2iv95-x400-q78.webp"
+  },
+  {
+    "index": 68,
+    "name": "Tiger (700ml - Deckel mit Griff)",
+    "sourceName": "Tiger (700ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_069_Tiger-700ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th069.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th069.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/tiger-700ml-deckel-mit-griff/3541dc7797-1781862342/shaker_forme_blueorange_04_w22sfo-x400-q78.webp"
+  },
+  {
+    "index": 69,
+    "name": "Schwarz (700ml - Deckel mit Griff)",
+    "sourceName": "Schwarz (700ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_070_Schwarz-700ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th070.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th070.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/schwarz-700ml-deckel-mit-griff/1bf37cb2b0-1781862336/shaker_forme_blackcaro_01-x400-q78.webp"
+  },
+  {
+    "index": 70,
+    "name": "Lila (700ml - Deckel mit Griff)",
+    "sourceName": "Lila (700ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_071_Lila-700ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th071.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th071.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/lila-700ml-deckel-mit-griff/14cd0f1ce4-1781862344/shaker_forme_lilac_02_2skvko-x400-q78.webp"
+  },
+  {
+    "index": 71,
+    "name": "Frosty Fox (1000ml - Deckel mit Griff)",
+    "sourceName": "Frosty Fox (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_072_Frosty-Fox-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th072.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th072.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/frosty-fox-1000ml-deckel-mit-griff/6516e971ae-1781862326/shaker_20thermo_20fox-x400-q78.webp"
+  },
+  {
+    "index": 72,
+    "name": "StreamAwards 2025 (700 ml)",
+    "sourceName": "StreamAwards 2025 (700 ml)",
+    "path": "shaker/thermo/Thermo_073_StreamAwards-2025-700-ml.webp",
+    "cdnPath": "s/th073.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th073.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/streamawards-2025-700-ml/e225abe9fb-1781862354/adobe-express-file-x400-q78.webp"
+  },
+  {
+    "index": 73,
+    "name": "HOLY Milkshake (700ml - Deckel mit Griff)",
+    "sourceName": "HOLY Milkshake (700ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_074_HOLY-Milkshake-700ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th074.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th074.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/holy-milkshake-700ml-deckel-mit-griff/66e496e875-1781862340/shaker_20thermo_20milkshake-x400-q78.webp"
+  },
+  {
+    "index": 74,
+    "name": "Xmas (700ml - Deckel mit Griff)",
+    "sourceName": "Xmas (700ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_075_Xmas-700ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th075.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th075.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/xmas-700ml-deckel-mit-griff/c3d0076c54-1781862328/shaker_20thermo_20xmas-x400-q78.webp"
+  },
+  {
+    "index": 75,
+    "name": "New Year - Grün/Weiß (700 ml - Deckel mit Griff)",
+    "sourceName": "New Year - Grün/Weiß (700 ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_076_New-Year-Grun-Wei-700-ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th076.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th076.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/new-year-grun-weiss-700-ml-deckel-mit-griff/2991835b5a-1781862330/shaker-greenthermo-nynm25-x400-q78.webp"
+  },
+  {
+    "index": 76,
+    "name": "New Year - Rot/Weiß (1000ml - Deckel mit Griff)",
+    "sourceName": "New Year - Rot/Weiß (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_077_New-Year-Rot-Wei-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th077.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th077.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/new-year-rot-weiss-1000ml-deckel-mit-griff/902077f343-1781862328/shaker-redthermo-nynm25-x400-q78.webp"
+  },
+  {
+    "index": 77,
+    "name": "New Year - Pink/Weiß (700ml Sport-Deckel)",
+    "sourceName": "New Year - Pink/Weiß (700ml Sport-Deckel)",
+    "path": "shaker/thermo/Thermo_078_New-Year-Pink-Wei-700ml-Sport-Deckel.webp",
+    "cdnPath": "s/th078.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th078.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/new-year-pink-weiss-700ml-sport-deckel/3878f31aed-1781862350/shaker-pinkthermo-nynm25-x400-q78.webp"
+  },
+  {
+    "index": 78,
+    "name": "Strawberry Shark (1000ml - Deckel mit Griff)",
+    "sourceName": "Strawberry Shark (1000ml - Deckel mit Griff)",
+    "path": "shaker/thermo/Thermo_079_Strawberry-Shark-1000ml-Deckel-mit-Griff.webp",
+    "cdnPath": "s/th079.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th079.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/strawberry-shark-1000ml-deckel-mit-griff/10b85f9872-1781862338/1l_shaker_thermo_gradient_pink_blue_1x_3a2220b4-cf75-4f61-aadf-51ff648403fc-x400-q78.webp"
+  },
+  {
+    "index": 79,
+    "name": "BURRsday",
+    "sourceName": "BURRsday",
+    "path": "shaker/thermo/Thermo_080_BURRsday.webp",
+    "cdnPath": "s/th080.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th080.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/burrsday/9f8fd836f1-1781862338/imgi_1_syrup-upsell-shaker_ergebnis-x400-q78.webp"
+  },
+  {
+    "index": 80,
+    "name": "Matcha Mania",
+    "sourceName": "Matcha Mania",
+    "path": "shaker/thermo/Thermo_081_Matcha-Mania.webp",
+    "cdnPath": "s/th081.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th081.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/matcha-mania/74a432e290-1781862354/imgi_1_matcha-upsell-thermo-x400-q78.webp"
+  },
+  {
+    "index": 81,
+    "name": "World Cup – Germany",
+    "sourceName": "World Cup – Germany",
+    "path": "shaker/thermo/Thermo_082_World-Cup-Germany.webp",
+    "cdnPath": "s/th082.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th082.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/world-cup-germany/6accbfe7e0-1781862352/worldcup-thermo-de-x400-q78.webp"
+  },
+  {
+    "index": 82,
+    "name": "Coupe du Monde - France (Bleu Blanc Rouge) / World Cup – Scotland",
+    "sourceName": "Coupe du Monde - France (Bleu Blanc Rouge) / World Cup – Scotland",
+    "path": "shaker/thermo/Thermo_083_Coupe-du-Monde-France-Bleu-Blanc-Rouge-World-Cup-Scotland.webp",
+    "cdnPath": "s/th083.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th083.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/coupe-du-monde-france-bleu-blanc-rouge-world-cup-scotland/c53b1fcdd5-1781862332/worldcup-thermo-uk-x400-q78.webp"
+  },
+  {
+    "index": 83,
+    "name": "Coupe du Monde - France (Bleu) / World Cup – England",
+    "sourceName": "Coupe du Monde - France (Bleu) / World Cup – England",
+    "path": "shaker/thermo/Thermo_084_Coupe-du-Monde-France-Bleu-World-Cup-England.webp",
+    "cdnPath": "s/th084.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th084.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/coupe-du-monde-france-bleu-world-cup-england/59a9dff8cf-1781862330/worldcup-thermo-fr-x400-q78.webp"
+  },
+  {
+    "index": 84,
+    "name": "Raptor Egg Thermo Shaker",
+    "sourceName": "Raptor Egg Thermo Shaker",
+    "path": "shaker/thermo/Thermo_085_Raptor-Egg-Thermo-Shaker.webp",
+    "cdnPath": "s/th085.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th085.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/raptor-egg-thermo-shaker/985c367e69-1783014892/holy_20rewards_20__201x1_20__20full_20res_20-00014-lv-1_20-x400-q78.webp"
+  },
+  {
+    "index": 85,
+    "name": "Wacken - Farbverlauf (2026)",
+    "sourceName": "Wacken - Farbverlauf (2026)",
+    "path": "shaker/thermo/Thermo_086_Wacken-Farbverlauf-2026.webp",
+    "cdnPath": "s/th086.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th086.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/wacken-farbverlauf-2026/c50b1c8901-1784057694/wacken_merch5-x400-q78.webp"
+  },
+  {
+    "index": 86,
+    "name": "Wacken (2026)",
+    "sourceName": "Wacken (2026)",
+    "path": "shaker/thermo/Thermo_087_Wacken-2026.webp",
+    "cdnPath": "s/th087.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th087.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/wacken-2026/8dd2dccec3-1784057850/wacken_merch7-x400-q78.webp"
+  },
+  {
+    "index": 87,
+    "name": "Regenbogen",
+    "sourceName": "Regenbogen",
+    "path": "shaker/thermo/Thermo_088_Regenbogen.webp",
+    "cdnPath": "s/th088.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th088.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/regenbogen/d86d1c5931-1786104372/imgi_1_icedteaweek_rainbowthermo-x400-q78.webp"
+  },
+  {
+    "index": 88,
+    "name": "The Simpsons - Homer Simpson",
+    "sourceName": "The Simpsons - Homer Simpson",
+    "path": "shaker/thermo/Thermo_089_The-Simpsons-Homer-Simpson.webp",
+    "cdnPath": "s/th089.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th089.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/the-simpsons-homer-simpson/565bff893a-1788096748/imgi_17_shaker_milkshake_homer_11-00-10-0312-01-x400-q78.webp"
+  },
+  {
+    "index": 89,
+    "name": "The Simpsons - Marge Simpson",
+    "sourceName": "The Simpsons - Marge Simpson",
+    "path": "shaker/thermo/Thermo_090_The-Simpsons-Marge-Simpson.webp",
+    "cdnPath": "s/th090.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th090.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/the-simpsons-marge-simpson/bceb253b40-1788096782/imgi_18_shaker_milkshake_marge_11-00-10-0312-02-x400-q78.webp"
+  },
+  {
+    "index": 90,
+    "name": "The Simpsons - Bart Simpson",
+    "sourceName": "The Simpsons - Bart Simpson",
+    "path": "shaker/thermo/Thermo_091_The-Simpsons-Bart-Simpson.webp",
+    "cdnPath": "s/th091.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th091.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/the-simpsons-bart-simpson/64ebaeb85a-1788096808/imgi_19_shaker_milkshake_bart_11-00-10-0312-03-x400-q78.webp"
+  },
+  {
+    "index": 91,
+    "name": "The Simpsons - Lisa Simpson",
+    "sourceName": "The Simpsons - Lisa Simpson",
+    "path": "shaker/thermo/Thermo_092_The-Simpsons-Lisa-Simpson.webp",
+    "cdnPath": "s/th092.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th092.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/the-simpsons-lisa-simpson/d94ffb0c10-1788096836/imgi_20_shaker_milkshake_lisa_11-00-10-0312-04-x400-q78.webp"
+  },
+  {
+    "index": 92,
+    "name": "The Simpsons - Maggie Simpson",
+    "sourceName": "The Simpsons - Maggie Simpson",
+    "path": "shaker/thermo/Thermo_093_The-Simpsons-Maggie-Simpson.webp",
+    "cdnPath": "s/th093.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th093.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/the-simpsons-maggie-simpson/42dccd2f34-1788096882/imgi_21_shaker_milkshake_maggie_11-00-10-0312-06-x400-q78.webp"
+  },
+  {
+    "index": 93,
+    "name": "The Simpsons - Homer Simpson in der Hecke",
+    "sourceName": "The Simpsons - Homer Simpson in der Hecke",
+    "path": "shaker/thermo/Thermo_094_The-Simpsons-Homer-Simpson-in-der-Hecke.webp",
+    "cdnPath": "s/th094.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/th094.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/thermo/the-simpsons-homer-simpson-in-der-hecke/3f47e42293-1788096934/imgi_1_merch_simpsons26_thermo_11-00-10-0312-05-x400-q78.webp"
+  }
+]
