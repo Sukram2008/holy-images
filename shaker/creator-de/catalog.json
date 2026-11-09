@@ -520,5 +520,14 @@
     "cdnPath": "s/cd058.webp",
     "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cd058.webp",
     "source": "https://ochdenis.de/media/pages/holy/shaker/creator-de/rot-weiss-essen/40f44bd478-1791455764/imgi_1_rwessen_20front-x400-q78.webp"
+  },
+  {
+    "index": 58,
+    "name": "Eisbären Berlin",
+    "sourceName": "Eisbären Berlin",
+    "path": "shaker/creator-de/Creator-DE_059_Eisbaren-Berlin.webp",
+    "cdnPath": "s/cd059.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cd059.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-de/eisbaeren-berlin/36a417d77d-1793622222/imgi_1_eisbaerenberlin_front-x400-q78.webp"
   }
 ]
