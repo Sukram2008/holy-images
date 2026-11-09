@@ -1,0 +1,164 @@
+[
+  {
+    "index": 0,
+    "name": "Mandatory",
+    "sourceName": "Mandatory",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_01_Mandatory.webp",
+    "cdnPath": "s/cft01.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft01.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/mandatory/48e3baafd1-1781862280/holy_thermo_mandatory3-x400-q78.webp"
+  },
+  {
+    "index": 1,
+    "name": "AlphaCast",
+    "sourceName": "AlphaCast",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_02_AlphaCast.webp",
+    "cdnPath": "s/cft02.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft02.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/alphacast/a6d72161b4-1781862282/holy_thermo_alpha1-x400-q78.webp"
+  },
+  {
+    "index": 2,
+    "name": "Pau FC",
+    "sourceName": "Pau FC",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_03_Pau-FC.webp",
+    "cdnPath": "s/cft03.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft03.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/pau-fc/9776c801a4-1781862284/holy_thermo_pau1-x400-q78.webp"
+  },
+  {
+    "index": 3,
+    "name": "MrTiboute",
+    "sourceName": "MrTiboute",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_04_MrTiboute.webp",
+    "cdnPath": "s/cft04.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft04.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/mrtiboute/334b51b3d2-1781862280/tiboute_20thermo_20shaker_20front-x400-q78.webp"
+  },
+  {
+    "index": 4,
+    "name": "ZLAN Alien",
+    "sourceName": "ZLAN Alien",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_05_ZLAN-Alien.webp",
+    "cdnPath": "s/cft05.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft05.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/zlan-alien/7567cfdcb0-1781862286/zlan_20thermo_20shaker_201-x400-q78.webp"
+  },
+  {
+    "index": 5,
+    "name": "ZLAN Superviseur",
+    "sourceName": "ZLAN Superviseur",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_06_ZLAN-Superviseur.webp",
+    "cdnPath": "s/cft06.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft06.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/zlan-superviseur/2ec6f0ef1c-1781862282/zlan_20thermo_20shaker2_201-x400-q78.webp"
+  },
+  {
+    "index": 6,
+    "name": "SOLARY Blanc",
+    "sourceName": "SOLARY Blanc",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_07_SOLARY-Blanc.webp",
+    "cdnPath": "s/cft07.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft07.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/solary-blanc/609af61651-1781862284/forme_v1_03-x400-q78.webp"
+  },
+  {
+    "index": 7,
+    "name": "SOLARY Noir",
+    "sourceName": "SOLARY Noir",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_08_SOLARY-Noir.webp",
+    "cdnPath": "s/cft08.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft08.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/solary-noir/aecee00066-1781862286/forme_v2_03-x400-q78.webp"
+  },
+  {
+    "index": 8,
+    "name": "Sheshounet",
+    "sourceName": "Sheshounet",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_09_Sheshounet.webp",
+    "cdnPath": "s/cft09.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft09.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/sheshounet/d8fb6d4c9a-1781862286/sheshounet_20front_20_281_29-x400-q78.webp"
+  },
+  {
+    "index": 9,
+    "name": "Wankil",
+    "sourceName": "Wankil",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_10_Wankil.webp",
+    "cdnPath": "s/cft10.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft10.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/wankil/cc88a1986b-1781862286/wankil_20front-x400-q78.webp"
+  },
+  {
+    "index": 10,
+    "name": "MDR Thermo Shaker Edition 2025",
+    "sourceName": "MDR Thermo Shaker Edition 2025",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_11_MDR-Thermo-Shaker-Edition-2025.webp",
+    "cdnPath": "s/cft11.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft11.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/mdr-thermo-shaker-edition-2025/17f08b5429-1781862282/mdr_20back-x400-q78.webp"
+  },
+  {
+    "index": 11,
+    "name": "IDREAU Thermo Shaker Edition 2025",
+    "sourceName": "IDREAU Thermo Shaker Edition 2025",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_12_IDREAU-Thermo-Shaker-Edition-2025.webp",
+    "cdnPath": "s/cft12.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft12.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/idreau-thermo-shaker-edition-2025/866328f067-1781862284/idreau_20back-x400-q78.webp"
+  },
+  {
+    "index": 12,
+    "name": "HugoDelire",
+    "sourceName": "HugoDelire",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_13_HugoDelire.webp",
+    "cdnPath": "s/cft13.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft13.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/hugodelire/420e40d3e6-1781862280/hd_20front-x400-q78.webp"
+  },
+  {
+    "index": 13,
+    "name": "ICI JAPON",
+    "sourceName": "ICI JAPON",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_14_ICI-JAPON.webp",
+    "cdnPath": "s/cft14.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft14.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/ici-japon/6d5b054f28-1781862282/patron_20front-x400-q78.webp"
+  },
+  {
+    "index": 14,
+    "name": "Mandatory Blue 2026",
+    "sourceName": "Mandatory Blue 2026",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_15_Mandatory-Blue-2026.webp",
+    "cdnPath": "s/cft15.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft15.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/mandatory-blue-2026/5705daec9b-1789112480/imgi_3_holy_forme_mdr_02_01_5a6e5f1a-c309-4ef3-a755-46344e0b0d71-x400-q78.webp"
+  },
+  {
+    "index": 15,
+    "name": "Brushclub",
+    "sourceName": "Brushclub",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_16_Brushclub.webp",
+    "cdnPath": "s/cft16.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft16.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/brushclub/96e95336a1-1792678956/imgi_1_holy_forme_brushclub_0.7l_back-x400-q78.webp"
+  },
+  {
+    "index": 16,
+    "name": "Medusa",
+    "sourceName": "Medusa",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_17_Medusa.webp",
+    "cdnPath": "s/cft17.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft17.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/medusa/4050076848-1792679012/imgi_1_holy_formeshaker_medusa_back-x400-q78.webp"
+  },
+  {
+    "index": 17,
+    "name": "MDR Thermoshaker Red",
+    "sourceName": "MDR Thermoshaker Red",
+    "path": "shaker/creator-fr-thermo/Creator-FR-Thermo_18_MDR-Thermoshaker-Red.webp",
+    "cdnPath": "s/cft18.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cft18.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-thermo/mdr-thermoshaker-red/f7b74061e9-1793892025/mdr-valo_20front-x400-q78.webp"
+  }
+]

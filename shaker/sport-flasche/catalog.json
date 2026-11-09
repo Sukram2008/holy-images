@@ -1,0 +1,20 @@
+[
+  {
+    "index": 0,
+    "name": "Blau",
+    "sourceName": "Blau",
+    "path": "shaker/sport-flasche/Sport-Flasche_01_Blau.webp",
+    "cdnPath": "s/sf01.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/sf01.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/sport-flasche/blau/fea94c64bb-1781862228/142-x400-q78.webp"
+  },
+  {
+    "index": 1,
+    "name": "Rot",
+    "sourceName": "Rot",
+    "path": "shaker/sport-flasche/Sport-Flasche_02_Rot.webp",
+    "cdnPath": "s/sf02.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/sf02.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/sport-flasche/rot/0c53c3d85c-1781862228/sh-0109_63e570f9-2d73-4609-8ead-f9556e08acba-x400-q78.webp"
+  }
+]

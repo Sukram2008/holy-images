@@ -1,0 +1,29 @@
+[
+  {
+    "index": 0,
+    "name": "HOLY Method Shaker",
+    "sourceName": "HOLY Method Shaker",
+    "path": "shaker/creator-uk/Creator-UK_01_HOLY-Method-Shaker.webp",
+    "cdnPath": "s/uk01.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/uk01.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-uk/holy-method-shaker/7b50916b16-1781862298/holy_shaker_method_01-x400-q78.webp"
+  },
+  {
+    "index": 1,
+    "name": "HOLY WELDERFABBER Shaker",
+    "sourceName": "HOLY WELDERFABBER Shaker",
+    "path": "shaker/creator-uk/Creator-UK_02_HOLY-WELDERFABBER-Shaker.webp",
+    "cdnPath": "s/uk02.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/uk02.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-uk/holy-welderfabber-shaker/9a61aa54b0-1781862298/welderfabber_shaker_11-00-10-0128-23_front_93732344-f12f-49ad-a160-62e6b9981c11-x400-q78.webp"
+  },
+  {
+    "index": 2,
+    "name": "Method Shaker 2.0",
+    "sourceName": "Method Shaker 2.0",
+    "path": "shaker/creator-uk/Creator-UK_03_Method-Shaker-2-0.webp",
+    "cdnPath": "s/uk03.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/uk03.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-uk/method-shaker-2-0/c148ceeb4b-1781862298/method_20front-x400-q78.webp"
+  }
+]

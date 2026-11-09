@@ -1,0 +1,20 @@
+[
+  {
+    "index": 0,
+    "name": "Mandatory",
+    "sourceName": "Mandatory",
+    "path": "shaker/creator-fr-glasflasche/Creator-FR-Glasflasche_01_Mandatory.webp",
+    "cdnPath": "s/cfg01.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cfg01.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-glasflasche/mandatory/95f5763bb7-1781862224/energy_product_20images_20_38-x400-q78.webp"
+  },
+  {
+    "index": 1,
+    "name": "Jiraya",
+    "sourceName": "Jiraya",
+    "path": "shaker/creator-fr-glasflasche/Creator-FR-Glasflasche_02_Jiraya.webp",
+    "cdnPath": "s/cfg02.webp",
+    "url": "https://cdn.jsdelivr.net/gh/Sukram2008/holy-images@main/s/cfg02.webp",
+    "source": "https://ochdenis.de/media/pages/holy/shaker/creator-fr-glasflasche/jiraya/a03046791e-1781862224/creator_glas_jiraya_2-x400-q78.webp"
+  }
+]
