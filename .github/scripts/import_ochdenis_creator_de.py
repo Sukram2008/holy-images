@@ -17,7 +17,7 @@ from PIL import Image
 PAGE = "https://ochdenis.de/holy/shaker"
 REPO = "Sukram2008/holy-images"
 CATEGORIES = [
-    {"name": "Creator - DE", "folder": "creator-de", "prefix": "Creator-DE", "alias": "cd", "expected": 58, "digits": 3},
+    {"name": "Creator - DE", "folder": "creator-de", "prefix": "Creator-DE", "alias": "cd", "expected": 59, "digits": 3},
     {"name": "Creator - DE - XL", "folder": "creator-de-xl", "prefix": "Creator-DE-XL", "alias": "cx", "expected": 8, "digits": 2},
     {"name": "Creator - DE - Thermo", "folder": "creator-de-thermo", "prefix": "Creator-DE-Thermo", "alias": "ct", "expected": 9, "digits": 2},
 ]
