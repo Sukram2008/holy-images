@@ -30,7 +30,7 @@ jobs:
       - name: Install dependencies
         run: python -m pip install --disable-pip-version-check requests beautifulsoup4 pillow
 
-      - name: Download and validate all 94 Thermo images
+      - name: Download and validate all 95 Thermo images
         run: python .github/scripts/import_ochdenis_thermo_shakers.py
 
       - name: Write summary
@@ -54,5 +54,14 @@ jobs:
           for file in s/th*; do
             [ -f "$file" ] && git add -- "$file"
           done
-          git commit -m "Import 94 OchDenis Thermo shaker images [skip image-import]"
-          git push
+          git commit -m "Import 95 OchDenis Thermo shaker images [skip image-import]"
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; retrying after refreshing main."
+          done
+          echo "Could not push Thermo import after 4 attempts."
+          exit 1
