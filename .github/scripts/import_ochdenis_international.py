@@ -31,7 +31,7 @@ session.headers.update({
 })
 
 def normalize(text: str) -> str:
-    return re.sub(r"\\s+", " ", text or "").strip()
+    return re.sub(r"\s+", " ", text or "").strip()
 
 def slug(text: str) -> str:
     text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
@@ -107,7 +107,7 @@ def main():
     discovered = {}
     for category in CATEGORIES:
         products = discover_category(soup, category["name"])
-        print(f"\\n{category['name']}: {len(products)} products (expected {category['expected']})")
+        print(f"\n{category['name']}: {len(products)} products (expected {category['expected']})")
         for index, item in enumerate(products, 1):
             print(f"{index:02d}. {item['name']}")
         if len(products) != category["expected"]:
@@ -180,15 +180,15 @@ def main():
 
         if not errors:
             (original_dir / "catalog.json").write_text(
-                json.dumps(catalog, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8"
+                json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
             )
             (original_dir / "image-url-map.json").write_text(
-                json.dumps(image_map, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8"
+                json.dumps(image_map, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
             )
         total += len(catalog)
 
     if errors:
-        print("\\nERROR: import incomplete; no success commit will be made.")
+        print("\nERROR: import incomplete; no success commit will be made.")
         for error in errors:
             print(f" - {error}")
         sys.exit(3)
@@ -198,8 +198,8 @@ def main():
         summary.append(f"## {category['name']} ({len(discovered[category['name']])})")
         summary.extend(f"- {item['name']}" for item in discovered[category["name"]])
         summary.append("")
-    Path("/tmp/international-shaker-summary.md").write_text("\\n".join(summary), encoding="utf-8")
-    print(f"\\nSUCCESS: {total} images and CDN aliases ready for commit.")
+    Path("/tmp/international-shaker-summary.md").write_text("\n".join(summary), encoding="utf-8")
+    print(f"\nSUCCESS: {total} images and CDN aliases ready for commit.")
 
 if __name__ == "__main__":
     main()
