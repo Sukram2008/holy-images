@@ -16,7 +16,7 @@ from PIL import Image
 
 PAGE = "https://ochdenis.de/holy/shaker"
 CATEGORY = "Thermo"
-EXPECTED = 94
+EXPECTED = 95
 REPO = "Sukram2008/holy-images"
 
 session = requests.Session()
