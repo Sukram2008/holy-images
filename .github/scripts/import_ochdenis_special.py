@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Import all 65 first product images from the OchDenis 'Spezial' category."""
+"""Import all 66 first product images from the OchDenis 'Spezial' category."""
 from __future__ import annotations
 
 import json
@@ -17,7 +17,7 @@ from PIL import Image
 
 PAGE = "https://ochdenis.de/holy/shaker"
 CATEGORY = "Spezial"
-EXPECTED = 65
+EXPECTED = 66
 REPO = "Sukram2008/holy-images"
 
 session = requests.Session()
