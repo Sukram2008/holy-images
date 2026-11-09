@@ -13,19 +13,26 @@ holy-images/
 │   ├── milkshake/
 │   └── syrup/
 └── shaker/
-    ├── energy/
-    ├── iced-tea/
-    ├── hydration/
-    ├── milkshake/
-    ├── spezial/       (65 Bilder)
-    ├── xl/            (11 Bilder)
-    ├── giga-gallon/   (7 Bilder)
-    ├── glasflasche/  (26 Bilder)
-    ├── thermo/             (94 Bilder)
-    ├── creator-de/          (58 Bilder)
-    ├── creator-de-xl/       (8 Bilder)
-    └── creator-de-thermo/   (9 Bilder)
+    ├── energy/                 (44 Bilder)
+    ├── iced-tea/               (23 Bilder)
+    ├── hydration/              (20 Bilder)
+    ├── milkshake/               (10 Bilder)
+    ├── spezial/                 (66 Bilder)
+    ├── xl/                      (11 Bilder)
+    ├── giga-gallon/             (7 Bilder)
+    ├── glasflasche/             (26 Bilder)
+    ├── thermo/                  (95 Bilder)
+    ├── creator-de/              (59 Bilder)
+    ├── creator-de-xl/           (8 Bilder)
+    ├── creator-de-thermo/       (9 Bilder)
+    ├── creator-fr/              (27 Bilder)
+    ├── creator-fr-thermo/       (18 Bilder)
+    ├── creator-fr-glasflasche/  (2 Bilder)
+    ├── creator-uk/              (3 Bilder)
+    └── sport-flasche/            (2 Bilder)
 ```
+
+Der zugehörige Shaker-Katalog enthält aktuell **433 Einträge in 18 Kategorien**. Die Zahlen sind Kategorieeinträge; gleiche Produkte in unterschiedlichen Variantenkategorien werden separat gezählt.
 
 ## Dateinamen
 
@@ -49,11 +56,13 @@ Die Datei muss unter exakt diesem Pfad im öffentlichen Repository liegen. Datei
 
 - `Import OchDenis Tub images`: liest die Sortenübersicht und übernimmt je Sorte das erste Produktbild.
 - `Import OchDenis shaker images`: übernimmt Bilder aus den regulären Kategorien Energy, Iced Tea, Hydration und Milkshake. Alternative Kategorien wie `Energy (Alt Bunt)`, `Energy (Alt Schwarz)` und `Iced Tea (Alt Schwarz)` bleiben ausgeschlossen.
-- `Import OchDenis Spezial shaker images`: übernimmt alle 65 Einträge der Kategorie Spezial.
+- `Import OchDenis Spezial shaker images`: übernimmt alle 66 Einträge der Kategorie Spezial.
 - `Import OchDenis XL shaker images`: übernimmt alle 11 Einträge der Kategorie XL.
 - `Import OchDenis Giga Gallon and Glasflasche shaker images`: übernimmt 7 Giga-Gallon-Modelle und 26 Glasflaschen aus den gleichnamigen Kategorien.
-- `Import OchDenis Thermo shaker images`: übernimmt alle 94 Produkte der exakten Hauptkategorie `Thermo` (nicht die getrennten Creator-Kategorien).
-- `Import OchDenis Creator-DE shaker images`: übernimmt die drei getrennten Kategorien `Creator - DE` (58), `Creator - DE - XL` (8) und `Creator - DE - Thermo` (9).
+- `Import OchDenis Thermo shaker images`: übernimmt alle 95 Produkte der exakten Hauptkategorie `Thermo` (nicht die getrennten Creator-Kategorien).
+- `Import OchDenis Creator-DE shaker images`: übernimmt die drei getrennten Kategorien `Creator - DE` (59), `Creator - DE - XL` (8) und `Creator - DE - Thermo` (9).
+- `Import OchDenis international shaker categories`: übernimmt `Creator - FR` (27), `Creator - FR - Thermo` (18), `Creator - FR - Glasflasche` (2), `Creator - UK` (3) und `Sport-Flasche` (2).
+
 
 Alle Importe prüfen Dateityp und Bilddaten und committen die Ergebnisse gesammelt. Schlägt eine Bildprüfung fehl, bricht der Import ab, statt einen unvollständigen Katalog als erfolgreich zu melden.
 
