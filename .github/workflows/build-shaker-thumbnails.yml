@@ -1,0 +1,48 @@
+name: Build Discord shaker thumbnails
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/build-shaker-thumbnails.yml"
+      - ".github/scripts/build_shaker_thumbnails.py"
+      - "shaker/**"
+      - "s/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discord-shaker-thumbnails
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install image processing dependency
+        run: python -m pip install --disable-pip-version-check pillow
+
+      - name: Build square contain-fit thumbnails
+        run: python .github/scripts/build_shaker_thumbnails.py
+
+      - name: Commit generated thumbnails
+        run: |
+          if [ -z "$(git status --porcelain -- thumbs)" ]; then
+            echo "No thumbnail changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add thumbs
+          git commit -m "Build square Discord shaker thumbnails [skip shaker-thumbnails]"
+          git push
