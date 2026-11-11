@@ -93,11 +93,12 @@ Original product image files remain in their category folders. The `s/` director
 - `s/cx##.webp`: Creator - DE - XL
 - `s/ct##.webp`: Creator - DE - Thermo
 
-The aliases point to the same Git blobs; no image is recompressed or changed.
+The `s/` aliases are the Discord-safe compact variants: 512×512 WebP previews with transparent padding and contain-fit scaling. Full-resolution source images remain in `shaker/`.
 
 ## Discord thumbnails
 
-- `thumbs/` mirrors the complete `shaker/` folder structure.
+- `thumbs/` mirrors both the complete `shaker/` folder structure and the compact `s/` aliases.
+- The `s/` files themselves are also regenerated as square thumbnails because those compact URLs are already stored in the live HOLY module.
 - Every thumbnail is 512×512 WebP with transparent padding and the complete image fitted inside a 464×464 px area.
 - Thumbnails use `contain` scaling and never crop the shaker cap, body, or base.
 - Original images are not modified.
