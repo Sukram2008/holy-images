@@ -18,6 +18,17 @@ EXTENSIONS = {".webp", ".png", ".jpg", ".jpeg"}
 def render(data: bytes) -> bytes:
     with Image.open(BytesIO(data)) as source:
         image = source.convert("RGBA")
+        # A previously generated thumbnail is already square and has a
+        # transparent corner. Keep it byte-for-byte to prevent repeated
+        # runs from shrinking the product again.
+        corners = (
+            image.getpixel((0, 0))[3],
+            image.getpixel((SIZE - 1, 0))[3],
+            image.getpixel((0, SIZE - 1))[3],
+            image.getpixel((SIZE - 1, SIZE - 1))[3],
+        ) if image.size == (SIZE, SIZE) else ()
+        if image.size == (SIZE, SIZE) and all(alpha == 0 for alpha in corners):
+            return data
         image.thumbnail((SIZE - 2 * INSET, SIZE - 2 * INSET), Image.Resampling.LANCZOS)
         canvas = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
         canvas.alpha_composite(image, ((SIZE - image.width) // 2, (SIZE - image.height) // 2))
@@ -49,6 +60,11 @@ def main() -> None:
             rendered = render(source.read_bytes())
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_bytes(rendered)
+            # Compact s/ aliases are the paths already used by the HOLY
+            # ranking. Replace those aliases with thumbnail bytes while
+            # keeping the full-resolution originals untouched in shaker/.
+            if base_dir == ALIAS_SOURCE_DIR:
+                source.write_bytes(rendered)
             print(f"OK {source} -> {target}")
         except (OSError, ValueError, UnidentifiedImageError) as exc:
             failures.append(f"{source}: {exc}")
