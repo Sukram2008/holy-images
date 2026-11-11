@@ -93,13 +93,13 @@ Original product image files remain in their category folders. The `s/` director
 - `s/cx##.webp`: Creator - DE - XL
 - `s/ct##.webp`: Creator - DE - Thermo
 
-The `s/` aliases are the Discord-safe compact variants: 512×512 WebP previews with transparent padding and contain-fit scaling. Full-resolution source images remain in `shaker/`.
+The `s/` aliases are compact 512×512 WebP previews. The `s/v2/` aliases are the Discord-safe variants: the complete product is reduced to 65% of the square canvas with transparent padding, leaving enough room for Discord's thumbnail crop. Full-resolution source images remain in `shaker/`.
 
 ## Discord thumbnails
 
 - `thumbs/` mirrors both the complete `shaker/` folder structure and the compact `s/` aliases.
-- The `s/` files themselves are also regenerated as square thumbnails because those compact URLs are already stored in the live HOLY module.
-- Every thumbnail is 512×512 WebP with transparent padding and the complete image fitted inside a 464×464 px area.
+- The `s/` files remain the compact 512×512 previews; `s/v2/` contains a more conservative 65%-scale version for Discord's cropped section-thumbnail slot.
+- Standard thumbnails are 512×512 WebP with transparent padding and contain-fit scaling. Discord-safe `s/v2/` thumbnails reduce the complete square preview to 65% to prevent the accessory crop from cutting off the product.
 - Thumbnails use `contain` scaling and never crop the shaker cap, body, or base.
 - Original images are not modified.
 - `.github/scripts/build_shaker_thumbnails.py` rebuilds all thumbnails; the standard shaker import also creates a thumbnail alongside each newly imported original.
