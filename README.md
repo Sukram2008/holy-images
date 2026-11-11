@@ -32,6 +32,8 @@ holy-images/
     └── sport-flasche/            (2 Bilder)
 ```
 
+Zusätzlich werden unter `thumbs/` zu jedem Shaker-Original quadratische Discord-Vorschaubilder erzeugt. Sie sind 512×512 px, transparent und proportional eingepasst (contain, kein Crop). Die Originale unter `shaker/` bleiben unverändert und eignen sich weiterhin für große Ansichten.
+
 Der zugehörige Shaker-Katalog enthält aktuell **433 Einträge in 18 Kategorien**. Die Zahlen sind Kategorieeinträge; gleiche Produkte in unterschiedlichen Variantenkategorien werden separat gezählt.
 
 ## Dateinamen
@@ -92,3 +94,11 @@ Original product image files remain in their category folders. The `s/` director
 - `s/ct##.webp`: Creator - DE - Thermo
 
 The aliases point to the same Git blobs; no image is recompressed or changed.
+
+## Discord thumbnails
+
+- `thumbs/` mirrors the complete `shaker/` folder structure.
+- Every thumbnail is 512×512 WebP with transparent padding and the complete image fitted inside a 464×464 px area.
+- Thumbnails use `contain` scaling and never crop the shaker cap, body, or base.
+- Original images are not modified.
+- `.github/scripts/build_shaker_thumbnails.py` rebuilds all thumbnails; the standard shaker import also creates a thumbnail alongside each newly imported original.
