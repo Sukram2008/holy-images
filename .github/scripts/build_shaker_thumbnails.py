@@ -9,6 +9,7 @@ from PIL import Image, UnidentifiedImageError
 
 SOURCE_DIR = Path("shaker")
 OUTPUT_DIR = Path("thumbs")
+ALIAS_SOURCE_DIR = Path("s")
 SIZE = 512
 INSET = 24
 EXTENSIONS = {".webp", ".png", ".jpg", ".jpeg"}
@@ -33,9 +34,17 @@ def main() -> None:
     if not sources:
         raise SystemExit("No shaker source images found; refusing to create an empty thumbnail set.")
 
+    aliases = sorted(
+        path for path in ALIAS_SOURCE_DIR.rglob("*")
+        if path.is_file() and path.suffix.lower() in EXTENSIONS
+    )
+    if not aliases:
+        raise SystemExit("No compact image aliases found in s/; refusing to leave the Discord thumbnail URLs incomplete.")
+
     failures: list[str] = []
-    for source in sources:
-        target = OUTPUT_DIR / source.relative_to(SOURCE_DIR).with_suffix(".webp")
+    for source in sources + aliases:
+        base_dir = SOURCE_DIR if SOURCE_DIR in source.parents else ALIAS_SOURCE_DIR
+        target = OUTPUT_DIR / base_dir.name / source.relative_to(base_dir).with_suffix(".webp")
         try:
             rendered = render(source.read_bytes())
             target.parent.mkdir(parents=True, exist_ok=True)
@@ -50,7 +59,7 @@ def main() -> None:
             print(f" - {failure}")
         raise SystemExit(2)
 
-    print(f"Generated {len(sources)} square thumbnails.")
+    print(f"Generated {len(sources)} product-folder thumbnails and {len(aliases)} compact-alias thumbnails.")
 
 
 if __name__ == "__main__":
