@@ -6,6 +6,7 @@ on:
     paths:
       - ".github/workflows/import-ochdenis-shakers.yml"
       - ".github/scripts/import_ochdenis_shakers.py"
+      - ".github/scripts/build_shaker_thumbnails.py"
   workflow_dispatch:
 
 permissions:
@@ -42,14 +43,17 @@ jobs:
             echo "Import did not complete. See the log above; no bulk commit was made." >> "$GITHUB_STEP_SUMMARY"
           fi
 
+      - name: Build thumbnails for the complete existing shaker library
+        run: python .github/scripts/build_shaker_thumbnails.py
+
       - name: Commit all imported shaker images
         run: |
-          if [ -z "$(git status --porcelain -- shaker)" ]; then
+          if [ -z "$(git status --porcelain -- shaker thumbs)" ]; then
             echo "No image changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add shaker
+          git add shaker thumbs
           git commit -m "Import OchDenis shaker images [skip shaker-import]"
           git push
