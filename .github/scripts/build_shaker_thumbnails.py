@@ -37,6 +37,23 @@ def render(data: bytes) -> bytes:
         return output.getvalue()
 
 
+def render_discord_safe(data: bytes) -> bytes:
+    """Scale a complete square preview down to leave room for Discord's crop."""
+    with Image.open(BytesIO(data)) as source:
+        image = source.convert("RGBA")
+        if image.size != (SIZE, SIZE):
+            normalized = render(data)
+            with Image.open(BytesIO(normalized)) as fitted:
+                image = fitted.convert("RGBA")
+        scaled_size = int(SIZE * 0.65)
+        image = image.resize((scaled_size, scaled_size), Image.Resampling.LANCZOS)
+        canvas = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
+        canvas.alpha_composite(image, ((SIZE - scaled_size) // 2, (SIZE - scaled_size) // 2))
+        output = BytesIO()
+        canvas.save(output, "WEBP", lossless=True, method=6)
+        return output.getvalue()
+
+
 def main() -> None:
     sources = sorted(
         path for path in SOURCE_DIR.rglob("*")
@@ -46,7 +63,7 @@ def main() -> None:
         raise SystemExit("No shaker source images found; refusing to create an empty thumbnail set.")
 
     aliases = sorted(
-        path for path in ALIAS_SOURCE_DIR.rglob("*")
+        path for path in ALIAS_SOURCE_DIR.iterdir()
         if path.is_file() and path.suffix.lower() in EXTENSIONS
     )
     if not aliases:
@@ -64,7 +81,14 @@ def main() -> None:
             # ranking. Replace those aliases with thumbnail bytes while
             # keeping the full-resolution originals untouched in shaker/.
             if base_dir == ALIAS_SOURCE_DIR:
-                source.write_bytes(rendered)
+                safe_rendered = render_discord_safe(source.read_bytes())
+                safe_target = ALIAS_SOURCE_DIR / "v2" / source.name
+                safe_thumb_target = OUTPUT_DIR / ALIAS_SOURCE_DIR.name / "v2" / source.name
+                safe_target.parent.mkdir(parents=True, exist_ok=True)
+                safe_thumb_target.parent.mkdir(parents=True, exist_ok=True)
+                safe_target.write_bytes(safe_rendered)
+                safe_thumb_target.write_bytes(safe_rendered)
+                print(f"OK {source} -> {safe_target} (Discord-safe 65%)")
             print(f"OK {source} -> {target}")
         except (OSError, ValueError, UnidentifiedImageError) as exc:
             failures.append(f"{source}: {exc}")
