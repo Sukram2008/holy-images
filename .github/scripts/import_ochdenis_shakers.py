@@ -113,6 +113,29 @@ def discover(html: str):
         unique.setdefault((item["category"], item["number"]), item)
     return list(unique.values())
 
+THUMBNAIL_SIZE = 512
+THUMBNAIL_INSET = 24
+THUMBNAIL_DIR = Path("thumbs")
+
+
+def make_thumbnail(source: bytes) -> bytes:
+    """Fit the complete product into a square transparent canvas (never crop)."""
+    with Image.open(BytesIO(source)) as original:
+        image = original.convert("RGBA")
+        image.thumbnail(
+            (THUMBNAIL_SIZE - THUMBNAIL_INSET * 2,
+             THUMBNAIL_SIZE - THUMBNAIL_INSET * 2),
+            Image.Resampling.LANCZOS,
+        )
+        canvas = Image.new("RGBA", (THUMBNAIL_SIZE, THUMBNAIL_SIZE), (0, 0, 0, 0))
+        position = ((THUMBNAIL_SIZE - image.width) // 2,
+                    (THUMBNAIL_SIZE - image.height) // 2)
+        canvas.alpha_composite(image, position)
+        output = BytesIO()
+        canvas.save(output, format="WEBP", lossless=True, method=6)
+        return output.getvalue()
+
+
 def main():
     response = session.get(PAGE, timeout=60)
     response.raise_for_status()
@@ -157,8 +180,16 @@ def main():
             target = Path("shaker") / CATEGORIES[item["category"]] / filename
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_bytes(image_response.content)
-            imported.append(target.as_posix())
-            print(f"OK {target}")
+
+            # Generate a separate Discord Components V2 section-thumbnail.
+            # The original stays untouched; the thumbnail uses contain-fit so
+            # the cap and base can never be cropped by a square thumbnail slot.
+            thumbnail_path = THUMBNAIL_DIR / CATEGORIES[item["category"]] / f"{target.stem}.webp"
+            thumbnail_path.parent.mkdir(parents=True, exist_ok=True)
+            thumbnail_path.write_bytes(make_thumbnail(image_response.content))
+
+            imported.extend([target.as_posix(), thumbnail_path.as_posix()])
+            print(f"OK {target} + {thumbnail_path}")
         except Exception as exc:
             errors.append(f"{item['category']} #{item['number']} {item['name']}: {exc}")
 
@@ -180,7 +211,7 @@ def main():
     ]
     summary.extend(f"- {category}: {counts.get(category, 0)}" for category in CATEGORIES)
     Path("/tmp/ochdenis-shaker-summary.md").write_text("\n".join(summary), encoding="utf-8")
-    print(f"SUCCESS: {len(imported)} shaker images ready for commit.")
+    print(f"SUCCESS: {len(imported) // 2} original images and matching square thumbnails ready for commit.")
 
 if __name__ == "__main__":
     main()
